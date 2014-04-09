@@ -1,0 +1,61 @@
+{
+   "Team": {
+      "Development": [
+         {
+            "Image":"team_pradeep.png",
+            "Content":"Pradeep is a Interaction Designer from IIT Guwahati. He is a charismatic cool chap who loves to create something new and novel. Contact him at pradeeppj92@gmail.com",
+            "Name":"Pradeep PJ"
+         },
+         {
+            "Image":"team_harsha.png",
+            "Content":"Harsha is an Android Programmer from IIT Guwahati. Learning by doing is what he believes in and loves sketching. Contact him at pokallaharsha@gmail.com.",
+            "Name":"Harsha Vardhan P"
+         },
+         {
+            "Image":"team_arjun.png",
+            "Content":"Arjun is a Computer Science student from R.V College of Engineering. He&rsquo;s a tech savy guy with an ambition to conquer the world of mobile devices. Contact him at arjun.pola@gmail.com",
+            "Name":"Nagarjun Pola"
+         },
+         {
+            "Image" :"team_ashish.png",
+            "Content" :"Aashish is Doing Btech in ECE from IIT Guwahati. He is an innovator and learner from heart who loves to learn and do new cool things. Contact him at aashishamber@gmail.com.<br>",
+            "Name" :"Aashish Amber "
+         },
+         {
+            "Image":"team_karthik.jpg",
+            "Content":"A techie and an Application Developer, has his proficiency on Windows and Android platforms. One groovy guy, who proves that techies aren&rsquo;t nerds.<br><br><br>",
+            "Name":"Karthik M U"
+         }
+      ],
+      "Contributors": [
+         {
+            "Image":"team_prof_chua.png",
+            "Content":"Dr.C N Chua is a Professor in the Ophthlalmology department of Universiti Malaysia Sarawak, Malyasia. He is a UK trained ophthalmologist &#40;Oxford Eye Hospital&#41; and specializes in cataract and eyelid surgeries. He did his oculoplastic fellowship with Miss Carole Jones of Maidstone and Mr Neil Rowson of Turnbridge Wells &#40;South Thames Deanery&#41;. Of the many websites to his credit, the most popular is www.mrcophth.com.",
+            "Name":"Prof C.N Chua"
+         },
+	   {
+	   "Image":"team_uday.jpg",
+	   "Content":"Uday is the Head of Optometry at Gullapalli Pratibha Rao- International center for Advancement of Rural Eye care &#40;GPR-ICARE&#41;, L V Prasad Eye Institute, with a keen interest in taking the technology to the under served population in the community.He is currently pursuing PhD from the University of Newsouthwales, Sydney, Australia.",
+	   "Name":"Uday Addepalli"
+	   }
+
+            ],
+      "Thought": [
+         {
+            "Image":"team_vipin.png",
+            "Content":"Vipin is an Ophthalmologist by profession, a Researcher at heart and an Innovator by choice. He is a Consultant at the L V Prasad Eye Institute, Hyderabad, India. He is named on the TR35 2012 and is a  <span class=red> TED </span> Senior Fellow.",
+            "Name":"Dr.Anthony Vipin Das"
+         },
+         {
+            "Image":"team_eduardo.png",
+            "Content":"Dr.Eduardo Mayorga is the Head of the Department of Opthalmology at the Hospital Italiano de Buenos Aires in Buenos Aries,Argentina. He is the Chair of the Technology for Teaching and Learning, Education Goal Committee at the ICO.",
+            "Name":"Dr.Eduardo Mayorga"
+         },
+         {
+            "Image":"team_gaby.png",
+            "Content":"Dr.Gaby Palis is a Professor of Ophthalmology at the Hospital Italiano de Buenos Aires in Buenos Aires, Argentina. She is the Chair of Teaching the Teachers, Education Goal Committee at the ICO.",
+            "Name":"Dr.Gaby Palis"
+         }
+      ]
+   }
+}

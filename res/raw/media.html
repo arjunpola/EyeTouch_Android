@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+                <title>Eye Touch</title>
+                <link rel="stylesheet" type="text/css" href="css2_normalize.css" />
+                <link rel="stylesheet" type="text/css" href="css2_demo.css" />
+                <link rel="stylesheet" type="text/css" href="css2_icons.css" />
+                <link rel="stylesheet" type="text/css" href="css2_style5.css" />
+                <link rel="stylesheet" type="text/css" href="css2_mediainfo.css" />
+                <script src="js2_modernizr.custom.js"></script>
+                <script src="js2_jquery.min.js"></script>
+                </head>
+    <style>
+        h1{
+            text-align:center;
+            padding-top:10%;
+        }
+    
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 1px;
+        margin-bottom: 8px;
+        border: 3px solid #3A539B
+    }
+    
+    video{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 1px;
+        margin-bottom: 8px;
+        border: 3px solid #3A539B
+    }
+    
+    a{
+        display: inline;
+    }
+    
+    .goBack{
+    position: absolute;
+    margin-left: 80%;
+    margin-top: 3%;
+    }
+    </style>
+	<body>
+	
+	
+	<div class="container">
+				<a class="goBack" onclick="gallery()"><span>Go Back</span></a>
+		</div>
+	
+	
+        <div id="scrollable">
+		</div>
+	</body>
+	<script type="text/javascript">
+        var active,passive,duplicate;
+        var debug_info="";
+        var sideLists = new Array();
+                          
+    function Android_getInfo(sTitles,contents)
+	{
+		sTitles = JSON.parse(sTitles);
+        
+//        rotate(sides);
+        fillContent(sTitles,contents)
+	}
+	
+	function fillContent(sTitles,contents)
+	{
+//		cssClass = "info_"+screen;
+		contents = JSON.parse(contents)
+		$("#scrollable").html("");
+        
+        var title = "<div class='info_small'><br><h1>"+contents[sTitles[0]]+"</h1></div>";
+        
+        var description = "<div class='info_small'><br>"+contents[sTitles[1]]+"</div>";
+        
+        
+        $("#scrollable").append(title).append(description);
+    }
+	
+	function gallery()
+	{
+		Android.gallery();
+	}
+	   
+        </script>
+	<script src="js2_classie.js"></script>
+	<script src="js2_bordermenu.js"></script>
+</html>

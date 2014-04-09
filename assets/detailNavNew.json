@@ -1,0 +1,1801 @@
+{
+   		 "Af_Eyelids":{
+   		     "Headers":[
+   		       "Layers",
+   		       "Skin",
+   		       "Innervation",
+   		       "Blood supply"
+   		     ],
+   		     "Contents":{
+   		        "Layers":"<img class=rightImg src=eyelids_det.png>The eyelids act to protect the anterior surface of the globe from local injury. Additionally, they aid in regulation of light reaching the eye; in tear film maintenance, by distributing the protective and optically important tear film over the cornea during blinking; and in tear flow, by their pumping action on the conjunctival sac and lacrimal sac.<br><br>Structures that must be considered in a description of lid anatomy are the skin and subcutaneous tissue; the orbicularis oculi muscle (shown below); the submuscular areolar tissue; the fibrous layer, consisting of the tarsi and the orbital septum; the lid retractors of the upper and lower eyelids; the retroseptal fat pads; and the conjunctiva. <br><br> Sensory innervation of the eyelids is subserved by terminal branches of the ophthalmic (cranial nerve [CN] V1) and maxillary (CN V2) divisions of the trigeminal nerve (CN V). Within the superior orbit, the frontal branch of the ophthalmic division of the trigeminal nerve travels anteriorly between the periorbita of the roof and the levator muscle. Midway along the roof, it divides into a larger supraorbital nerve and a smaller supratrochlear nerve. Terminal branches of these nerves supply sensation to the upper eyelid and forehead",
+   		       "Skin":" (text to be updated)",
+   		       "Innervation":"(text to be updated) ",
+   		       "Blood supply":"(text to be updated)"
+   		     } 
+   		 },
+         "Af_Cornea":{
+         "Headers":[   		       
+    			"Layers",
+    			"Innervation",
+    			"Refractive nature"   		       
+   		     ],
+   		     "Contents":{
+   		         "Layers":"(text to be updated) ",
+    			"Innervation":" (text to be updated)",
+    			"Refractive nature":" (text to be updated)" 
+   		     } 
+   		 },
+         "Af_Conjunctiva":{ 
+             "Headers":[   		       
+                 "Gross anatomy",
+                 "Innervation",
+                 "Histology"    			   		       
+   		     ],
+   		     "Contents":{
+   		         "Gross anatomy":"(text to be updated) ",
+                 "Innervation":" (text to be updated)",
+                 "Histology":"(text to be updated) "
+   		     }        
+         },
+         "Af_Sclera":{
+              "Headers":[   		       
+                  "Episclera",
+    			  "Stroma",
+                  "Lamina fusca",
+                  "Endothelium"   			   		       
+   		     ],
+   		     "Contents":{
+   		         "Episclera":"(text to be updated)",
+    			  "Stroma":"(text to be updated)",
+                  "Lamina fusca":"(text to be updated)",
+                  "Endothelium":"(text to be updated)" 
+   		     }
+         },
+         "Af_Anterior Chamber":{
+              "Headers":[
+              "Introduction",
+    		  "Aqueous Humour" 			   		       
+   		     ],
+   		     "Contents":{
+   		         "Introduction":"The anterior chamber (AC) is the fluid-filled space inside the eye between the iris and the innermost surface of the cornea, the endothelium.",
+    			  "Aqueous Humour":"Aqueous humor is the fluid that fills the anterior chamber." 
+   		     }             
+         },
+         "Af_Iris":{
+             "Headers":[   		       
+                  "Iris",
+    			  "Pupillary Region",
+                  "Ciliar Region" 			   		       
+   		     ],
+   		     "Contents":{
+   		          "Iris":"(text to be updated)",
+    			  "Pupillary Region":"(text to be updated)",
+                  "Ciliar Region":"(text to be updated)" 
+   		     }        
+         },
+         "Af_Pupil":{   
+             "Headers":[   		       
+                  "Pupil",
+    			  "Types" 			   		       
+   		     ],
+   		     "Contents":{
+   		          "Pupil":"(text to be updated)",
+    			  "Types":"(text to be updated)" 
+   		     }       
+         },
+         "Af_Lens":{ 
+             "Headers":[   		       
+                  "Lens",
+    			  "Capsule",
+    			  "Epithelium",
+				  "Fibers"		   		       
+   		     ],
+   		     "Contents":{
+   		          "Lens":"(text to be updated)",
+    			  "Capsule":"(text to be updated)",
+    			  "Epithelium":"(text to be updated)",
+				  "Fibers":"(text to be updated)"
+			}			         
+         },
+          "Au_Vitreous":{
+              "Headers":[   		       
+                  "Vitreous"		   		       
+   		     ],
+   		     "Contents":{
+   		          "Vitreous":"(text to be updated)"
+			}
+		 },
+          "Au_Extra Ocular Muscles":{
+              "Headers":[   		       
+                  "Blood supply",
+                  "Innervation",
+                  "Origins",
+                  "Insertions" 		   		       
+   		     ],
+   		     "Contents":{
+   		          "Blood supply":"(text to be updated)",
+                  "Innervation":"(text to be updated)",
+                  "Origins":"(text to be updated)",
+                  "Insertions":"(text to be updated)"
+			}
+              },
+          "Au_Choroid":{
+              "Headers":[  
+                  "Haller layer",
+                  "Sattler layer",
+                   "Choriocapillaris",
+                  "Bruch membrane"      	   		       
+   		     ],
+   		     "Contents":{
+   		          "Haller layer":"(text to be updated)",
+                  "Sattler layer":"(text to be updated)",
+                   "Choriocapillaris":"(text to be updated)",
+                  "Bruch membrane":"(text to be updated)"  
+                  }
+          },
+          "Au_Retina":{
+              "Headers":[  
+                  "Retina",
+                  "Membranes",
+                   "Layers"     	   		       
+   		     ],
+   		     "Contents":{
+   		          "Retina":"(text to be updated)",
+                  "Membranes":"(text to be updated)",
+                   "Layers":"(text to be updated)" 
+                  }
+              
+         },        
+   "Ad_Generic" : {},
+       "Ad_Vitreous":{
+           "Headers":[   		       
+                  "Vitreous"		   		       
+   		     ],
+   		     "Contents":{
+   		          "Vitreous":"(text to be updated)"
+			}
+         },
+         "Ad_Fovea":{
+             "Headers":[   		       
+                  "Fovea"		   		       
+   		     ],
+   		     "Contents":{
+   		          "Fovea":"(text to be updated)"
+			}
+         },
+         "Ad_Macula":{
+             "Headers":[   		       
+                  "Macula"		   		       
+   		     ],
+   		     "Contents":{
+   		          "Macula":"(text to be updated)"
+			}
+         },
+         "Ad_Extra Ocular Muscles":{
+             "Headers":[   		       
+                  "Blood supply",
+                  "Innervation",
+                  "Origins",
+                  "Insertions" 		   		       
+   		     ],
+   		     "Contents":{
+   		          "Blood supply":"(text to be updated)",
+                  "Innervation":"(text to be updated)",
+                  "Origins":"(text to be updated)",
+                  "Insertions":"(text to be updated)"
+			}
+         },
+   "Ab_Generic" : {},
+       "Ab_Orbit":{
+            "Headers":[   		       
+                  "Orbit"		   		       
+   		     ],
+   		     "Contents":{
+   		          "Orbit":"(text to be updated)"
+			}
+        },
+       "Ab_Visual Pathway":{
+            "Headers":[   		       
+                  "Visual Pathway"		   		       
+   		     ],
+   		     "Contents":{
+   		          "Visual Pathway":"(text to be updated)"
+			}
+       },
+       "Ab_Systemic diseases":{
+            "Headers":[   		       
+                  "Systemic diseases"		   		       
+   		     ],
+   		     "Contents":{
+   		          "Systemic diseases":"(text to be updated)"
+			}
+       },
+       "Ab_Optic Nerve":{
+            "Headers":[   		       
+                  "Optic Nerve"		   		       
+   		     ],
+   		     "Contents":{
+   		          "Optic Nerve":"(text to be updated)"
+			}
+       },
+       
+"DIf_Ocular Trauma" : {
+      "Headers" : [
+         "Introduction",
+         "Demographics",
+         "Symptoms",
+         "Clinical Signs",
+         "Pathology",
+         "Microbiology",
+         "Investigations",
+         "Treatment",
+         "Prognosis",
+         "Pearls & Pitfalls"
+      ],
+	  "Contents":{
+      	"Introduction": "This is Introduction (to be updated).",
+      	"Demographics": "This is Demographics (to be updated) .",
+      	"Symptoms": "This is Symptoms (to be updated).",
+      	"Clinical Signs": "This is Clinical Signs (to be updated).",
+      	"Pathology": "This is Pathology (to be updated).",
+      	"Microbiology": "This is Microbiology (to be updated).",
+      	"Investigations": "This is Investigation (to be updated).",
+      	"Treatment": "This is Treatment (to be updated).",
+      	"Prognosis": "This is Prognosis (to be updated).",
+      	"Pearls & Pitfalls": "This is Pearls (to be updated)."
+      }
+   },
+"DIf_Cornea and Anterior Segment" : {
+      "Headers" : [
+         "Introduction",
+         "Demographics",
+         "Symptoms",
+         "Clinical Signs",
+         "Pathology",
+         "Microbiology",
+         "Investigations",
+         "Treatment",
+         "Prognosis",
+         "Pearls & Pitfalls"
+      ],
+	  "Contents":{
+      	"Introduction": "This is Introduction (to be updated).",
+      	"Demographics": "This is Demographics (to be updated) .",
+      	"Symptoms": "This is Symptoms (to be updated).",
+      	"Clinical Signs": "This is Clinical Signs (to be updated).",
+      	"Pathology": "This is Pathology (to be updated).",
+      	"Microbiology": "This is Microbiology (to be updated).",
+      	"Investigations": "This is Investigation (to be updated).",
+      	"Treatment": "This is Treatment (to be updated).",
+      	"Prognosis": "This is Prognosis (to be updated).",
+      	"Pearls & Pitfalls": "This is Pearls (to be updated)."
+      }
+   },
+"DIf_Uvea" : {
+      "Headers" : [
+         "Introduction",
+         "Demographics",
+         "Symptoms",
+         "Clinical Signs",
+         "Pathology",
+         "Microbiology",
+         "Investigations",
+         "Treatment",
+         "Prognosis",
+         "Pearls & Pitfalls"
+      ],
+	  "Contents":{
+      	"Introduction": "This is Introduction (to be updated).",
+      	"Demographics": "This is Demographics (to be updated) .",
+      	"Symptoms": "This is Symptoms (to be updated).",
+      	"Clinical Signs": "This is Clinical Signs (to be updated).",
+      	"Pathology": "This is Pathology (to be updated).",
+      	"Microbiology": "This is Microbiology (to be updated).",
+      	"Investigations": "This is Investigation (to be updated).",
+      	"Treatment": "This is Treatment (to be updated).",
+      	"Prognosis": "This is Prognosis (to be updated).",
+      	"Pearls & Pitfalls": "This is Pearls (to be updated)."
+      }
+   },
+"DIf_Glaucoma" : {
+      "Headers" : [
+         "Introduction",
+         "Demographics",
+         "Symptoms",
+         "Clinical Signs",
+         "Pathology",
+         "Microbiology",
+         "Investigations",
+         "Treatment",
+         "Prognosis",
+         "Pearls & Pitfalls"
+      ],
+	  "Contents":{
+      	"Introduction": "This is Introduction (to be updated).",
+      	"Demographics": "This is Demographics (to be updated) .",
+      	"Symptoms": "This is Symptoms (to be updated).",
+      	"Clinical Signs": "This is Clinical Signs (to be updated).",
+      	"Pathology": "This is Pathology (to be updated).",
+      	"Microbiology": "This is Microbiology (to be updated).",
+      	"Investigations": "This is Investigation (to be updated).",
+      	"Treatment": "This is Treatment (to be updated).",
+      	"Prognosis": "This is Prognosis (to be updated).",
+      	"Pearls & Pitfalls": "This is Pearls (to be updated)."
+      }
+   },
+"DIf_Cataract" : {
+      "Headers" : [
+         "Introduction",
+         "Demographics",
+         "Symptoms",
+         "Clinical Signs",
+         "Pathology",
+         "Microbiology",
+         "Investigations",
+         "Treatment",
+         "Prognosis",
+         "Pearls & Pitfalls"
+      ],
+	  "Contents":{
+      	"Introduction": "This is Introduction (to be updated).",
+      	"Demographics": "This is Demographics (to be updated) .",
+      	"Symptoms": "This is Symptoms (to be updated).",
+      	"Clinical Signs": "This is Clinical Signs (to be updated).",
+      	"Pathology": "This is Pathology (to be updated).",
+      	"Microbiology": "This is Microbiology (to be updated).",
+      	"Investigations": "This is Investigation (to be updated).",
+      	"Treatment": "This is Treatment (to be updated).",
+      	"Prognosis": "This is Prognosis (to be updated).",
+      	"Pearls & Pitfalls": "This is Pearls (to be updated)."
+      }
+   },
+"DIf_Oculoplasty" : {
+      "Headers" : [
+         "Introduction",
+         "Demographics",
+         "Symptoms",
+         "Clinical Signs",
+         "Pathology",
+         "Microbiology",
+         "Investigations",
+         "Treatment",
+         "Prognosis",
+         "Pearls & Pitfalls"
+      ],
+	  "Contents":{
+      	"Introduction": "This is Introduction (to be updated).",
+      	"Demographics": "This is Demographics (to be updated) .",
+      	"Symptoms": "This is Symptoms (to be updated).",
+      	"Clinical Signs": "This is Clinical Signs (to be updated).",
+      	"Pathology": "This is Pathology (to be updated).",
+      	"Microbiology": "This is Microbiology (to be updated).",
+      	"Investigations": "This is Investigation (to be updated).",
+      	"Treatment": "This is Treatment (to be updated).",
+      	"Prognosis": "This is Prognosis (to be updated).",
+      	"Pearls & Pitfalls": "This is Pearls (to be updated)."
+      }
+   },
+"DIu_Retina and Vitreous" : {
+      "Headers" : [
+         "Introduction",
+         "Demographics",
+         "Symptoms",
+         "Clinical Signs",
+         "Pathology",
+         "Microbiology",
+         "Investigations",
+         "Treatment",
+         "Prognosis",
+         "Pearls & Pitfalls"
+      ],
+	  "Contents":{
+      	"Introduction": "This is Introduction (to be updated).",
+      	"Demographics": "This is Demographics (to be updated) .",
+      	"Symptoms": "This is Symptoms (to be updated).",
+      	"Clinical Signs": "This is Clinical Signs (to be updated).",
+      	"Pathology": "This is Pathology (to be updated).",
+      	"Microbiology": "This is Microbiology (to be updated).",
+      	"Investigations": "This is Investigation (to be updated).",
+      	"Treatment": "This is Treatment (to be updated).",
+      	"Prognosis": "This is Prognosis (to be updated).",
+      	"Pearls & Pitfalls": "This is Pearls (to be updated)."
+      }
+   },
+"DIu_Pediatric Ophthalmology" : {
+      "Headers" : [
+         "Introduction",
+         "Demographics",
+         "Symptoms",
+         "Clinical Signs",
+         "Pathology",
+         "Microbiology",
+         "Investigations",
+         "Treatment",
+         "Prognosis",
+         "Pearls & Pitfalls"
+      ],
+	  "Contents":{
+      	"Introduction": "This is Introduction (to be updated).",
+      	"Demographics": "This is Demographics (to be updated) .",
+      	"Symptoms": "This is Symptoms (to be updated).",
+      	"Clinical Signs": "This is Clinical Signs (to be updated).",
+      	"Pathology": "This is Pathology (to be updated).",
+      	"Microbiology": "This is Microbiology (to be updated).",
+      	"Investigations": "This is Investigation (to be updated).",
+      	"Treatment": "This is Treatment (to be updated).",
+      	"Prognosis": "This is Prognosis (to be updated).",
+      	"Pearls & Pitfalls": "This is Pearls (to be updated)."
+      }
+   },
+"DId_Retina and Vitreous" : {
+      "Headers" : [
+         "Introduction",
+         "Demographics",
+         "Symptoms",
+         "Clinical Signs",
+         "Pathology",
+         "Microbiology",
+         "Investigations",
+         "Treatment",
+         "Prognosis",
+         "Pearls & Pitfalls"
+      ],
+	  "Contents":{
+      	"Introduction": "This is Introduction (to be updated).",
+      	"Demographics": "This is Demographics (to be updated) .",
+      	"Symptoms": "This is Symptoms (to be updated).",
+      	"Clinical Signs": "This is Clinical Signs (to be updated).",
+      	"Pathology": "This is Pathology (to be updated).",
+      	"Microbiology": "This is Microbiology (to be updated).",
+      	"Investigations": "This is Investigation (to be updated).",
+      	"Treatment": "This is Treatment (to be updated).",
+      	"Prognosis": "This is Prognosis (to be updated).",
+      	"Pearls & Pitfalls": "This is Pearls (to be updated)."
+      }
+   },
+"DId_Pediatric Ophthalmology" : {
+      "Headers" : [
+         "Introduction",
+         "Demographics",
+         "Symptoms",
+         "Clinical Signs",
+         "Pathology",
+         "Microbiology",
+         "Investigations",
+         "Treatment",
+         "Prognosis",
+         "Pearls & Pitfalls"
+      ],
+	  "Contents":{
+      	"Introduction": "This is Introduction (to be updated).",
+      	"Demographics": "This is Demographics (to be updated) .",
+      	"Symptoms": "This is Symptoms (to be updated).",
+      	"Clinical Signs": "This is Clinical Signs (to be updated).",
+      	"Pathology": "This is Pathology (to be updated).",
+      	"Microbiology": "This is Microbiology (to be updated).",
+      	"Investigations": "This is Investigation (to be updated).",
+      	"Treatment": "This is Treatment (to be updated).",
+      	"Prognosis": "This is Prognosis (to be updated).",
+      	"Pearls & Pitfalls": "This is Pearls (to be updated)."
+      }
+   },
+"DIb_Neuro-Opthalmology" : {
+      "Headers" : [
+         "Introduction",
+         "Demographics",
+         "Symptoms",
+         "Clinical Signs",
+         "Pathology",
+         "Microbiology",
+         "Investigations",
+         "Treatment",
+         "Prognosis",
+         "Pearls & Pitfalls"
+      ],
+	  "Contents":{
+      	"Introduction": "This is Introduction (to be updated).",
+      	"Demographics": "This is Demographics (to be updated) .",
+      	"Symptoms": "This is Symptoms (to be updated).",
+      	"Clinical Signs": "This is Clinical Signs (to be updated).",
+      	"Pathology": "This is Pathology (to be updated).",
+      	"Microbiology": "This is Microbiology (to be updated).",
+      	"Investigations": "This is Investigation (to be updated).",
+      	"Treatment": "This is Treatment (to be updated).",
+      	"Prognosis": "This is Prognosis (to be updated).",
+      	"Pearls & Pitfalls": "This is Pearls (to be updated)."
+      }
+   },
+"DIb_Systemic Diseases" : {
+      "Headers" : [
+         "Introduction",
+         "Demographics",
+         "Symptoms",
+         "Clinical Signs",
+         "Pathology",
+         "Microbiology",
+         "Investigations",
+         "Treatment",
+         "Prognosis",
+         "Pearls & Pitfalls"
+      ],
+	  "Contents":{
+      	"Introduction": "This is Introduction (to be updated).",
+      	"Demographics": "This is Demographics (to be updated) .",
+      	"Symptoms": "This is Symptoms (to be updated).",
+      	"Clinical Signs": "This is Clinical Signs (to be updated).",
+      	"Pathology": "This is Pathology (to be updated).",
+      	"Microbiology": "This is Microbiology (to be updated).",
+      	"Investigations": "This is Investigation (to be updated).",
+      	"Treatment": "This is Treatment (to be updated).",
+      	"Prognosis": "This is Prognosis (to be updated).",
+      	"Pearls & Pitfalls": "This is Pearls (to be updated)."
+      }
+   },
+  "D_Acetazolamide":{
+      "Headers":[
+         "Drug Name",
+         "Molecule",
+         "Brand Names",
+         "MOA",
+         "Dosage",
+         "Indications",
+         "Side Effects",
+         "Contraindications"
+      ],
+      "Contents" : {
+         "Drug Name": "Acetazolamide",
+         "Molecule": "<img width=200px height=150px src=acetazolamide_det.png>",
+         "Brand Names": "Diamox",
+         "MOA": "Carbonic anhydrase inhibitor",
+         "Dosage": "Recommended doses of acetazolamide vary depending on the condition being treated and the circumstances. For glaucoma, the usual recommended dose is 250 mg by mouth 1 to 4 times a day",
+         "Indications": "Glaucoma",
+         "Side Effects": "<br>Acetazolamide may cause the following side effects.<br><br>Confusion<br>Diarrhea<br>Drowsiness<br>Increased urination<br>Loss of appetite<br>Malaise &#40;generally feeling of discomfort&#41;<br>Metallic taste<br>Nausea or vomiting<br>Blood in urine<br>Dark-coloured stools<br>Fever<br>Hives<br>Rash<br>Red or purple spots on the skin<br>Ringing in ears or hearing loss<br>Tingling feeling in fingers and toes",
+         "Contraindications": "Acetazolamide is contraindicated in known allergy to the medication, hyponatremia and hypokalemia and in those with severe kidney or liver dysfunction. This medication passes into breast milk."
+      }
+   },
+    "D_Ciprofloxacin" : {
+        "Headers" : [
+                     "Drug Name",
+                     "Molecule",
+                     "Brand Names",
+                     "MOA",
+                     "Dosage",
+                     "Indications",
+                     "Contraindications"
+                     ],
+        "Contents" : {
+            "Drug Name": "Ciprofloxacin 0.3&#37; Eye Drops",
+            "Molecule": "<img width=200px height=150px src=ciprofloxacin_det.png>",
+            "Brand Names": "Ciplox",
+            "MOA": "Quinolones bind to DNA Gyrase and prevent them from decatenation replicating DNA.",
+            "Dosage": "Each 1 mL of eye drops contains 3.5 mg of ciprofloxacin hydrochloride quivalent to 3 mg base (0.3&#37;).",
+            "Indications": "Bacterial Conjunctivitis<br>Corneal Ulcer<br>Post&#45;Operative Antibiotic Prophylaxis",
+            "Contraindications": "Ciprofloxacin eye drop solution should not be used by anyone who&#58;<br><br>&#45; &#32; is allergic to ciprofloxacin or to any of the ingredients of the medication<br>&#45; &#32; is allergic to nalidixic acid or other quinolones (e.g., norfloxacin, levofloxacin, and ofloxacin)"
+        }
+    },
+    "D_Prednisolone" : {
+        "Headers" : [
+                     "Drug Name",
+                     "Molecule",
+                     "Brand Names",
+                     "MOA",
+                     "Dosage",
+                     "Indications",
+                     "Side Effects",
+                     "Contraindications"
+                     ],
+        "Contents" : {
+            "Drug Name": "Prednisolone acetate 1&#37; Eye Drops",
+            "Molecule": "<img width=200px height=150px src=prednisolone_det.png>",
+            "Brand Names": "Prednisone, Predmet",
+            "MOA":"Prednisolone irreversibly binds with glucocorticoid receptors (GR) alpha and beta for which they have a high affinity that leads to suppression of inflammation and also the immune response.",
+            "Dosage": "The recommended dose of prednisolone acetate eye drops varies depending on the condition being treated and is typically tapered weekly. Each mL of suspension contains: prednisolone acetate 1&#37;",
+            "Indications": "Stromal HSV keratitis <br> Allergic Eye Disease <br> Vernal Kerato-conjunctivitis - VKC <br> Post-Operative Inflammation control <br> Marginal Keratitis.",
+            "Side Effects": "The drug can cause a rise in the Intraocular pressure in steroid responders and IOP must be checked 2 weeks after starting the drug.",
+            "Contraindications": "Prednisolone acetate eye drops are contraindicated if <br><br> -&nbsp; are allergic to prednisolone or any ingredients of the medication <br> -&nbsp; have had an allergic or sensitivity reaction to other corticosteroids <br> -&nbsp; have acute herpes simplex, tuberculosis of the eye, vaccinia, chickenpox, or other viral or fungal diseases of the eye <br> -&nbsp; have any eye infection associated with discharge <br> -&nbsp; have conjunctivitis or blepharitis associated with discharge <br> -&nbsp; have recently had a foreign body removed from the eye."
+        }
+    },
+    "D_Atropine Eye Drops" : {
+        "Headers" : [
+                     "Drug Name",
+                     "Molecule",
+                     "Brand Names",
+                     "MOA",
+                     "Dosage",
+                     "Indications",
+                     "Side Effects",
+                     "Contraindications",
+                     "History"
+                     ],
+        "Contents" : {
+            "Drug Name": "Atropine Eye Drops",
+            "Molecule": "<img width=200px height=150px src=d_atropine.png>",
+            "Brand Names": "Atropine",
+            "MOA":"It is a competitive antagonist for the muscarinic acetylcholine receptor types M1, M2, M3, M4 and M5. It is classified as an anticholinergic drug &#40;parasympatholytic&#41;.",
+            "Dosage": "Each 1 mL of ophthalmic solution contains 1&#37; Atropine Sulfate.",
+            "Indications": "Topical atropine is used as a cycloplegic, to temporarily paralyze the accommodation reflex and as a mydriatic, to dilate the pupils. Atropine degrades slowly, typically wearing off in 7 to 14 days. Atropine induces mydriasis by blocking contraction of the circular pupillary sphincter muscle and dilates the pupil. Atropine induces cycloplegia by paralyzing the ciliary muscles, whose action inhibits accommodation to allow accurate refraction in children, helps to relieve pain associated with iridocyclitis, and treats ciliary block &#40;malignant&#41; glaucoma. ",
+            "Side Effects": "A common mnemonic used to describe them is&#58; &quot;hot as a hare, blind as a bat, dry as a bone, red as a beet, and mad as a hatter&quot;. These associations reflect the specific changes of warm, dry skin from decreased sweating, blurry vision, decreased sweating&frasl;lacrimation, vasodilation, and central nervous system effects on muscarinic receptors, type 4 and 5 collectively known as anticholinergic toxidrome.",
+            "Contraindications": "Atropine is contraindicated in patients pre-disposed to narrow angle glaucoma and if allergic to the medication.",
+            "History": "Mandragora &#40;mandrake&#41; was described by Theophrastus in the fourth century B.C. for treatment of wounds, gout, and sleeplessness, and as a love potion. Atropine extracts from the Egyptian henbane were used by Cleopatra in the last century B.C. to dilate her pupils, in the hope that she would appear more alluring. In the Renaissance, women used the juice of the berries of Atropa belladonna to enlarge the pupils of their eyes, for cosmetic reasons."
+        }
+    },
+    "D_Chloramphenicol Eye Drops" : {
+        "Headers" : [
+                     "Drug Name",
+                     "Molecule",
+                     "Brand Names",
+                     "MOA",
+                     "Dosage",
+                     "Indications",
+                     "Side Effects"
+                     ],
+        "Contents" : {
+            "Drug Name": "Chloramphenicol Eye Drops",
+            "Molecule": "<img width=200px height=150px src=d_chloramphenicol.png>",
+            "Brand Names": "Chlorocol",
+            "MOA":"Chloramphenicol is a bacteriostatic drug that stops bacterial growth by inhibiting protein synthesis. Chloramphenicol prevents protein chain elongation by inhibiting the peptidyl transferase activity of the bacterial ribosome. It specifically binds to A2451 and A2452 residues in the 23S rRNA of the 50S ribosomal subunit, preventing peptide bond formation",
+            "Dosage": "Each 1 mL of ophthalmic solution contains 0.5&#37; Chloramphenicol.",
+            "Indications": "Chloramphenicol has a broad spectrum of activity and has been effective in treating ocular infections caused by a number of bacteria including Staphylococcus aureus, Streptococcus pneumoniae, and Escherichia coli. Chloramphenicol is not effective against Pseudomonas aeruginosa.",
+            "Side Effects": "The most serious side effect of chloramphenicol treatment is aplastic anaemia. The lowest risk occurs with eye drops &#40;affecting less than 1 in 224,716 prescriptions&#41;. Topical application to eyes has been associated with mercurialentis and atypical band keratopathy."
+        }
+    },
+    "D_Brimonidine Eye Drops" : {
+        "Headers" : [
+                     "Drug Name",
+                     "Molecule",
+                     "Brand Names",
+                     "Dosage",
+                     "MOA",
+                     "Indications",
+                     "Side Effects",
+                     "Contraindications"
+                     ],
+        "Contents" : {
+            "Drug Name": "Brimonidine Eye Drops",
+            "Molecule": "<img width=200px height=150px src=d_brimonidine.png>",
+            "Brand Names": "Alphagan, Alphagan P",
+            "Dosage": "Each 1 mL of ophthalmic solution, 0.15&#37; contains brimonidine tartrate 1.5 mg and 0.2&#37; contains brimonidine tartrate 2 mg.",
+            "MOA":"Brimonidine is an &alpha;2 adrenergic agonist.<br><br>Alpha 2 agonists, through the activation of a G protein-coupled receptor, inhibit the activity of adenylate cyclase. This reduces cAMP and hence aqueous humour production by the ciliary body.",
+            "Indications": "Brimonidine is indicated for the lowering of intraocular pressure in patients with open-angle glaucoma or ocular hypertension. It is also the active ingredient of Combigan along with timolol maleate.",
+            "Contraindications": "Brimonidine eye drops are contraindicated if<br><br> allergic to brimonidine or to any of the ingredients of the medication<br>using monoamine oxidase inhibitors &#40;MAOI&#41;"
+        }
+    },
+    "D_Olopatadine Eye Drops" : {
+        "Headers" : [
+                     "Drug Name",
+                     "Molecule",
+                     "Brand Names",
+                     "Dosage",
+                     "MOA",
+                     "Indications",
+                     "Side Effects"
+                     ],
+        "Contents" : {
+            "Drug Name": "Olopatadine Eye Drops",
+            "Molecule": "<img width=200px height=150px src=d_olopatadine.png>",
+            "Brand Names": "Olopat, Pataday",
+            "Dosage": "Each 1 mL of ophthalmic solution contains Olopatadine hydrochloride 0.1&#37;.",
+            "MOA":"Olopatadine hydrochloride is an antihistamine &#40;as well as anticholinergic and mast cell stabilizer&#41;",
+            "Indications": "It is used to treat itching associated with allergic conjunctivitis",
+            "Side Effects": "Some known side effects include headache &#40;7&#37; of occurrence&#41;, eye burning and&frasl;or stinging &#40;5&#37;&#41;, blurred vision, dry eyes, foreign body sensation, hyperemia, keratitis, eyelid edema,pruritus, asthenia, sore throat &#40;pharyngitis&#41;, rhinitis, sinusitis, and taste perversion."
+        }
+    },
+    "D_Cromoglycate Eye Drops" : {
+        "Headers" : [
+                     "Drug Name",
+                     "Molecule",
+                     "Brand Names",
+                     "Dosage",
+                     "MOA",
+                     "Indications",
+                     "Contraindications"
+                     ],
+        "Contents" : {
+            "Drug Name": "Cromoglycate Eye Drops",
+            "Molecule": "<img width=200px height=150px src=d_cromoglycate.png>",
+            "Brand Names": "Cromal, Cromal Forte",
+            "Dosage": "Each drop of sterile ophthalmic solution contains approximately 0.04 mL of the 2&#37; solution or sodium cromoglycate 0.8 mg. ",
+            "MOA":"Cromolyn works because it prevents the release of mediators that would normally attract inflammatory cells and because it stabilizes the inflammatory cells and is a mast cell stabilizer. It may act by inhibiting calcium influx.",
+            "Indications": "It is used to treat itching associated with allergic conjunctivitis",
+            "Contraindications": "Cromoglycate eye drops are contraindicated if<br><br> &nbsp; &nbsp; &nbsp; &nbsp; allergic to cromoglycate or to any of the ingredients of the medication"
+        }
+    },
+    "D_Loteprednol Eye Drops" : {
+        "Headers" : [
+                     "Drug Name",
+                     "Molecule",
+                     "Brand Names",
+                     "Dosage",
+                     "MOA",
+                     "Indications",
+                     "Side Effects",
+                     "Contraindications"
+                     ],
+        "Contents" : {
+            "Drug Name": "Loteprednol Eye Drops",
+            "Molecule": "<img width=200px height=150px src=d_loteprednol.png>",
+            "Brand Names": "Lotepred",
+            "Dosage": "Each 1 ml of sterile ophthalmic solution contains Loteprednol Etabonate INN 5 mg.",
+            "MOA":"Loteprednol is a corticosteroid which is thought to act by the induction of phospholipase A2 inhibitory proteins, which control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor arachidonic acid.",
+            "Indications": "ocular applications for this drug include the treatment of inflammation of the eye due to allergies &#40;according to the prescription information sheet&#41;, as well as chronic forms of keratitis &#40;e.g.adenoviral and Thygeson&#39;s keratitis&#41;, vernal keratoconjunctivitis, pingueculitis, andepiscleritis. The drug has little or no effect on intraocular pressure.",
+            "Side Effects": "It has no or little effect on the Intraocular Pressure.",
+            "Contraindications": "Loteprednol eye drops are contraindicated if<br><br>allergic to lotepred or to any of the ingredients of the medication<br>Bacterial diseases of the Conjunctiva and Cornea"
+        }
+    },
+    "D_Timolol Eye Drops" : {
+        "Headers" : [
+                     "Drug Name",
+                     "Molecule",
+                     "Brand Names",
+                     "Dosage",
+                     "MOA",
+                     "Indications",
+                     "Contraindications"
+                     ],
+        "Contents" : {
+            "Drug Name": "Timolol Eye Drops",
+            "Molecule": "<img width=200px height=150px src=d_timolol.png>",
+            "Brand Names": "Timolet, Iotim",
+            "Dosage": "Each 1 mL of  0.5&#37; sterile ophthalmic solution contains Timolol Maleate BP equivalent to Timolol basic 5 mg.<br><br>For ophthalmic use, timolol is also available combined with other medications&#58;<br><br>&#8226; Combigan - timolol and brimonidine<br>&#8226; Iotim-B - timolol and brimonidine<br>&#8226; Cosopt - timolol maleate and dorzolamide &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hydrochloride<br>&#8226; DuoTrav - timolol and travoprost<br>&#8226; Xalacom - timolol and latanoprost",
+            "MOA":"Timolol maleate is a non-selective beta-adrenergic receptor antagonist",
+            "Indications": "  Ocular hypertension<br>Chronic open-angle glaucoma<br>Aphakic glaucoma<br>",
+            "Contraindications": "Absolute bronchial asthma, bronchospasm, history of bronchial asthma or severe chronic obstructive pulmonary disease. Uncontrolled congestive cardiac insufficiency, cardiogenic shock High atrioventricular block &#40;without apparatus&#41; Raynaud phenomena, High bradycardia &#40;pulse rate &lt; 45 to 50 pulses&frasl;min.&#41;, Hypersensitivity to any component, relative combination with amiodarone."
+        }
+    },
+   
+   
+   
+   "GA_Generic":{
+    "Headers": [
+                "COMING SOON"
+                
+              ],
+              "Contents": {
+                "COMING SOON":" "
+                }
+   
+   
+   },
+         "GA_Guest Article 1":{
+              "Headers": [
+                "Topic",
+                "About the Author"
+              ],
+              "Contents": {
+                "Topic": "Description of the topic of the Article",
+                "About the Author": " Details about the author of the Article"
+                }
+              },
+         "GA_Guest Article 2":{
+              "Headers": [
+                "Topic",
+                "About the Author"
+              ],
+              "Contents": {
+                "Topic": "Description of the topic of the Article",
+                "About the Author": " Details about the author of the Article"
+                }
+         },
+         "GA_Guest Article 3":{
+               "Headers": [
+                "Topic",
+                "About the Author"
+              ],
+              "Contents": {
+                "Topic": "Description of the topic of the Article",
+                "About the Author": " Details about the author of the Article"
+                }
+         },
+         "GA_Guest Article 4":{
+                "Headers": [
+                "Topic",
+                "About the Author"
+              ],
+              "Contents": {
+                "Topic": "Description of the topic of the Article",
+                "About the Author": " Details about the author of the Article"
+                }
+         },
+"C_Mackie Classification":{
+	"Headers":["Mackie Classification"],
+	"Contents":{
+	"Mackie Classification":"Used to classify Neurotrophic Keratitis.<br><br><br><span class=stage>Stage 1</span><br>Punctate epithelial staining<br>Decreased tear breakup test<br>Rose Bengal staining of Inferior palpebral conjunctiva<br>Dellen<br>Gaule spots<br>Stromal scarring<br><br><br><span class=stage>Stage 2</span><br>Epithelial defect<br>Stromal swelling<br>Surrounding rim of loose epithelium<br>Rare anterior chamber reaction<br><br><br><span class=stage>Stage 3</span><br>Corneal ulcer<br>Stromal lysis<br>Perforation."
+	}
+},
+"C_Ocular Trauma" : {
+   "Headers":[
+   "Ocular Trauma"
+   ],
+   "Contents":{
+   "Ocular Trauma":"About Ocular Trauma"
+   }
+},
+"C_Cornea and Anterior Segment" : {
+ "Headers":[
+   "Cornea and Anterior Segment"
+   ],
+   "Contents":{
+   "Cornea and Anterior Segment":"About Cornea and Anterior Segment"
+   }
+},
+"C_Uvea" : {
+ "Headers":[
+   "Uvea"
+   ],
+   "Contents":{
+   "Uvea":"About Uvea"
+   }
+},
+"C_Glaucoma" : {
+ "Headers":[
+   "Glaucoma"
+   ],
+   "Contents":{
+   "Glaucoma":"About Glaucoma"
+   }
+},
+"C_Cataract" : {
+ "Headers":[
+   "Cataract"
+   ],
+   "Contents":{
+   "Cataract":"About Cataract"
+   }
+},
+"C_Retina and Vitreous" : {
+ "Headers":[
+   "Retina and Vitreous"
+   ],
+   "Contents":{
+   "Retina and Vitreous":"About Retina and Vitreous"
+   }
+},
+"C_Oculoplasty" : {
+ "Headers":[
+   "Oculoplasty"
+   ],
+   "Contents":{
+   "Oculoplasty":"About Oculoplasty"
+   }
+},
+"C_Neuro-Ophthalmology" : {
+ "Headers":[
+   "Neuro-Ophthalmology"
+   ],
+   "Contents":{
+   "Neuro-Ophthalmology":"About Neuro-Ophthalmology"
+   }
+},
+"C_Pediatric Ophthalmology" : {
+ "Headers":[
+   "Pediatric Ophthalmology"
+   ],
+   "Contents":{
+   "Pediatric Ophthalmology":"About Pediatric Ophthalmology"
+   }
+},
+"C_Systemic Diseases" : {
+ "Headers":[
+   "Systemic Diseases"
+   ],
+   "Contents":{
+   "Systemic Diseases":"About Systemic Diseases"
+   }
+},          
+   "FA_Generic" : {
+      "Headers" : [
+         "Formula",
+         "Developed By",
+         "Usage"
+      ],
+      "Contents":{
+          "Formula":"Equation (to be updated)",
+         "Developed By":" Author names (to be updated)",
+         "Usage":" Used in (to be updated)"
+      }
+   },
+   "CT_Generic":{},
+   "CT_Ptosis Evaluation":{
+            "Headers":[
+               "Ptosis Evaluation"
+            ],
+            "Contents":{
+               "Ptosis Evaluation": "<br><br>Lid Evaluation &#150;<br><br>Upper lid height and position in relation to the globe and is normally 2&#45;3 mm covering the limbus.<br><br>Marginal reflex distance 1 &#40;MRD-1&#41;<br>With the eye in primary gaze position&#44; the distance measured between the center of the pupillary light reflex and the upper eyelid margin is called MRD&#45;1 and normally is 3&#45;4 mm.<br><br>Marginal reflex distance 2 &#40;MRD-2&#41;<br>With the eye in primary gaze position&#44; the distance between the center of the pupillary light reflex and the lower eyelid margin is called MRD&#45;2 and normally is 7&#45;9 mm.<br><br>Documentation of the presence of eyelid crease and its height is important.<br><br>Levator function is assessed by inactivating the action of the frontalis muscle at the brow and then assessing the distance the eyelid travels from downgaze to upgaze. Ptosis can be subdivided based on this function into Severe &#40;LPS action &#60;5mm&#41;&#44; Moderate &#41;LPS action 6 &#45; 10mm &#41;, Mild &#40;LPS action &#62;10mm&#41; .<a><Img src=eye.png style={margin-left:40%} width=300dp height=200dp></a>Must also look for &#45;<br>Ocular Motility<br>Ocular Motility<br>Head Tilt<br>Chin Elevation<br>Marcus Jaw Winking phenomenon<br>Previous eyelid scars<br><br>Additional Tests &#45;<br>Fatigue Test and Ice Pack Test to rule out Myasthenia Gravis."
+            }
+         },
+		  "CT_Van Hericks Technique":{
+            "Headers":[
+               "Van Hericks Technique"
+            ],
+            "Contents":{
+               "Van Hericks Technique": "A narrow slit of light is projected onto the peripheral cornea at an angle of 60° as near as possible to the limbus. This results in slit images of the corneal thickness and the peripheral anterior chamber depth &#40;PACD&#41;.<br><br><a><Img src=van.png style={margin-left:40%} width=300dp height=200dp></a><br><br>Reference<br>Van Herick W&#44; Shaffer RN, Schwartz A&#58; Estimation of width of angle of anterior chamber. Incidence and significance of the narrow angle. American Journal of Ophthalmology 1969&#59; 68&#58; 626&#45;629"
+            }
+         },	
+		  "CT_Fundus examination":{
+            "Headers":[
+               "Fundus examination"
+            ],
+            "Contents":{
+               "Fundus examination": "The fundus can be examined in the non dilated or dilated state. The various instruments used are an Indirect Ophthalmoscope&#44; a Direct Ophthalmoscope and use of lenses of 78D&#44; 90D and 20D in conjunction with the Slit Lamp.<br><br>Order of description &#45;<br>Media &#45; Whether clear or Hazy&#63;<br><br>Optic Disc &#45; Size<br>Shape<br>Color<br>Margins<br>Cup/Disc&#47;ratio<br>Look for&#45;Nerve Fiber Layer defect<br>Disc Haemorrhage<br>Drusen<br><br>Vessels &#45;A:V Ratio<br>Constriction<br>Vascular Tortuosity<br><br>Macula - Foveal Reflex&#45;<br><br>Periphery can be examined using an Indirect Ophthalmoscope and Indenting with a Thimble or a sterile Cotton Bud<br><a><Img src=fundus.png style={margin-left:40%} width=300dp height=200dp></a>"
+            }
+         },	
+   "M_Generic" : {
+      "Headers" : [
+         "Videos",
+         "Photos"         
+      ],
+      "Contents":{
+        "Videos":" List of videos (to be updated).",
+        "Photos": "List of photos (to be updated)."
+      }
+   },
+   "E_Generic" : {
+      "Headers" : [
+         "Educate"         
+      ],
+      "Contents":{
+        "Educate":" Educational information (to be updated)."
+      }
+   },
+   "R_Generic" : {
+      "Headers" : [
+         "REPOrT"         
+      ],
+      "Contents":{
+        "REPOrT":"REPOrT was started on July 8th, 2008 at Kanapuram Village, Warangal. It stands for Rural Education and Prevention of Ocular Trauma. It specifically targets the need to prevent Ocular Trauma, more so in the Rural Areas and also urban too among children and adults. <br><br> REPOrT has since then addressed over 20,300 school children, 150 Teachers and 25 PHC workers in various villages in Andhra Pradesh, India. It is an ongoing project and uses the P.A.T Strategy to combat Ocular injuries.<br> <a><img src=report_child_det.png style={margin-left:40%} width=300dp height=200dp></a> <br> The P.A.T Strategy of REPOrT includes &#32; &#45; <br><br> &#32; &#45; Prevention <br> &#32; &#45; Analyze <br>  &#32; &#45; Treat <br><br> Effective prevention projects on the ground with specific focus on local risk factors, Analyze the burden of ocular trauma with the state-of-the art Electronic Medical Record system (EyeSmart EMR) and treat the injuries with the latest surgical techniques and based on scientific research is the vision of REPOrT.<br><br>It is being currently expanded in the rural areas in the entire LVPEI Network.<br><br>Find out more about REPOrT - <a href=www.youtube.com/REPOrTProject>Click Here</a><br><img src=report_det.png height=350dp width=200dp>"
+      }
+   },
+    "H_Generic":{},
+   "H_Adie":{
+            "Headers":[
+               "William John Adie"
+            ],
+            "Contents":{
+               "William John Adie": "<img class=rightImg src=adie_det.png>British physician and neurologist,<br><br>Born 31st October,<br>1886,Geelong, Victoria, Australia;<br><br>Died 17th March, 1935.<br><br>Eponym<br><br>Adie&rsquo;s syndrome = A condition in which one or both pupils is dilated and responds slowly or not at all to light and a near stimulus, accompanied by slow constriction and relaxation in the change from near to distant vision, and impaired accommodation.<br><a href=http://www.mrcophth.com/ophthalmologyhalloffame/adie.html>Click here to Read More</a><br>We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+
+"H_Amsler":{
+            "Headers":[
+               "Marc Amsler"
+            ],
+            "Contents":{
+               "Marc Amsler": "<img class=rightImg src=amsler_det.png />Swiss ophthalmologist,<br><br>Born 1891,<br><br> Died 1968.<br><br><br>Eponym<br><br>Amsler grid - Chart used to detect or document macular diseases<br><img class=centerImg src=amsler1_det.png><br>Amsler grid through an eye with macular degeneration<br><br>Amsler&rsquo;s sign - Haemorrhage caused by applanation tonometry and cataract surgery in Fuch&rsquo;s heterochromic iridocyclitis (FHI). It was once thought to be pathognomonic for FHI, was previously used as a diagnostic and confirmatory test in patients with suspected FHI.<br><a href=http://www.mrcophth.com/ophthalmologyhalloffame/amsler.html>Click here to Read More</a><br><br>We would like to thank Prof.CN Chua for the kind permission to share this information."
+               
+            }
+         },
+"H_Argyll Robertson":{
+            "Headers":[
+               "Douglas Moray Cooper Lamb Argyll Robertson"
+            ],
+            "Contents":{
+               "Douglas Moray Cooper Lamb Argyll Robertson": "<img class=rightImg src=argyll_det.png />Scottish ophthalmologist,<br><br>Born 1837, Edinburgh<br><br><b>Died 3rd January, 1909,<br><br>Gonday near Bombay, India<br><br><br>Eponym<br><br>Argyll Robertson&rsquo;s syndrome - A frequent symptom of neurosyphilis, especially tabes dorsalis, and other diseases of thecentral nervous system, in which the pupil is small and responds slowly or not at all to light, but reaction to accommodation and convergence is retained.<br><br>Douglas Moray Cooper Lamb Argyll Robertson was one of the first surgeons to specialize entirely in the field of ophthalmology and his name has been forever associated with the phenomenon he described in the pupil found in tabes dorsalis.<br><br><a href=http://www.mrcophth.com/ophthalmologyhalloffame/argyllrobertson.html>Click here to Read More</a><br><br>We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Arlt":{
+            "Headers":[
+               "Carl Ferdinand Ritter von Arlt"
+            ],
+            "Contents":{
+               "Carl Ferdinand Ritter von Arlt": "<img class=rightImg src=arlt_det.png>German ophthalmologist,<br><br>Born April 18, 1812,<br><br>Obergraupen near Teplitz in Bohemia<br><br>Died March 7, 1887<br><br><br>Eponym<br><br>Arlt&rsquo;s Line -  Horizontal, linear scarring of the upper tarsal conjunctiva. A classical sign of trachoma.Arlt described an operation for transplantation of the ciliary bulbs in the treatment of distichiasis. In his work on the diseases of the eye he presented the proof that short-sightedness is normally a consequence of an elongation of the sagittal diameter of the bulbus of the eye.<br><br><a href=http://www.mrcophth.com/ophthalmologyhalloffame/arlt.html>Click here to Read More</a><br><br>We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Axenfeld":{
+            "Headers":[
+               "Karl Theodor Paul Polykarpus Axenfeld"
+            ],
+            "Contents":{
+               "Karl Theodor Paul Polykarpus Axenfeld": "<img class=rightImg src=axenfeld_det.png>German ophthalmologist,<br><br>Born 24th June 1867, Smyrna, Asia Minor<br><br>Died 29th July, 1930, Freiburg im Breisgau<br><br><br>Eponym<br><br> Axenfeld&rsquo;s syndrome - A syndrome characterised by posterior corneal embryotoxon, prominent Schwalbe&srquo;s line and iris adhesion to the Schwalbe&srquo;s line.<br><br><a href=http://www.mrcophth.com/ophthalmologyhalloffame/axenfeld.html>Click here to Read More</a><br><br>We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Behcet":{
+            "Headers":[
+               "Hulusi Behcet"
+            ],
+            "Contents":{
+               "Hulusi Behcet": "<img class=rightImg src=behcet_det.png>Turkish Dermatologist<br><br>Born 20th February, 1889, Istanbul<br><br>Died 8th March, 1948.<br><br><br>Eponym<br><br> Behcet&rsquo;s syndrome - Recurrent systemic disease characterized by uveitis with hypopyon, recurrent ulceration of  the mucous membranes of the mouth and pharynx, and ulceration of the genitalia.<br><br><a href=http://www.mrcophth.com/ophthalmologyhalloffame/behcet.html>Click here to Read More</a><br><br>We would like to thank Prof.CN Chua for the kind permission to share this information"
+            }
+         },
+"H_Behr":{
+            "Headers":[
+               "Carl Behr"
+            ],
+            "Contents":{
+               "Carl Behr": "<img class=rightImg src=behr_det.png>German ophthalmologist,<br><br> Born 28th October, 1874, Hamburg <br><br> Died 1943. <br><br><br> Eponym <br><br> Behr&rsquo;s optic atrophy - a recessive form of optic atrophy which may occur in isolation or may be associated with deafness, diabetes, and neurologic complications. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/behr.html>Click here to Read More</a><br><br>We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Bell":{
+            "Headers":[
+               "Sir Charles Bell"
+            ],
+            "Contents":{
+               "Sir Charles Bell": "<img class=rightImg src=bell_det.png>Scottish anatomist, surgeon, and physiologist, <br><br> Born November 1774 <br><br> Died 28th April, 1842 <br><br> North Hallow, Worcestershire. <br><br><br> Eponym <br><br> Bell&rsquo;s palsy - Peripheral, usually unilateral, idiopathic paralysis of facial nerve.<br><strong>Bell&rsquo;s phenomenon</strong> - upturning of the globe on lid closure. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/bell.html> Click here to Read More</a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Best":{
+            "Headers":[
+               "Friedrich Best"
+            ],
+            "Contents":{
+               "Friedrich Best": "<img class=rightImg src=best_det.png>German ophthalmologist. <br><br> Born 1871 <br><br> Died 1965 <br><br><br> Eponym <br><br> Best&rsquo;s disease (vitelliform macular dystrophy) - Heredofamilial macular degenerations with autosomal dominant inheritance. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/best.html>Click here to Read More</a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Bielschowsky":{
+            "Headers":[
+               "Alfred Bielschowsky"
+            ],
+            "Contents":{
+               "Alfred Bielschowsky": "<img class=rightImg src=bielschowsky_det.png>German ophthalmologist, <br><br> Born 11th December, 1871 <br> Namslau, Niederschlesien <br><br> Died 5th April 1940<br> New York. <br><br><br> Eponym <br><br> Bielschowsky&rsquo;s head tilt test - A test for palsy of the superior oblique muscle caused by damage to the IVth cranial nerve. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/bielschowsky.html>Click here to Read More</a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Bjerrum":{
+            "Headers":[
+               "Jannik Peterson Bjerrum"
+
+            ],
+            "Contents":{
+               "Jannik Peterson Bjerrum": "<img class=rightImg src=peterson_det.png /> Danish ophthalmologist <br><br> Born 1851 <br><br> Born 1851 <br><br><br> Born 1851 <br><br> Bjerrum scotoma - a visual field defect characteristic of glaucoma. It is a nerve fiber bundle defect extending from the blind spot, sweeping around the macular region and ending in a straight line on the nasal side corresponding to the temporal raphe in the retina. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/bjerrum.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+
+            }
+         },
+"H_Bowman":{
+            "Headers":[
+               "William Bowman"
+            ],
+            "Contents":{
+               "William Bowman": "<img class=rightImg src=bowman_det.png /><br> English anatomist and ophthalmologist <br><br> 1816-1892 <br><br><br> Eponym <br><br> Bowman&rquo;s membrane - Described this Layer of the Cornea. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/bowman.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Bruch":{
+            "Headers":[
+               "Carl Ludwig Wilhelm Bruch"
+            ],
+            "Contents":{
+               "Carl Ludwig Wilhelm Bruch": "<img class=rightImg src=bruch_det.png /><br> German anatomist <br><br> German anatomist <br><br> Died 1984 <br><br><br> Eponym <br><br> Bruch&rsquo;s Membrane - Described this layer in the Choroid. He became a lecturer in the Medical Faculty of the University of Heidelberg in 1845. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/bruch.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+		 
+"H_Cloquet":{
+            "Headers":[
+               "Jules Cloquet"
+            ],
+            "Contents":{
+               "Jules Cloquet": "<img class=rightImg src=cloquet_det.png /> <br> Anatomist in Paris <br><br> Born 1790  <br><br> Died 1883 <br><br><br> Eponym <br><br> Cloquet&rsquo;s canal - A vestige of the embryonal A. hyolidea. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/cloquet.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Coats":{
+            "Headers":[
+               "George Coats"
+            ],
+            "Contents":{
+               "George Coats": "<img class=rightImg src=coats_det.png /> <br> Scottish ophthalmologist <br><br> Born 1876 <br> Paisley <br><br> Died October 1915 <br><br><br> Eponym <br><br> Coats&rsquo; disease - It is a developmental retinal vascular anomaly consisting of leaking telangiectatic and aneurysmal retinal vessels with associated lipid exudation, which frequently occurs in one eye of otherwise healthy boys in the first decade of life. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/coats.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Cogan":{
+            "Headers":[
+               "David Glendenning Cogan"
+            ],
+            "Contents":{
+               "David Glendenning Cogan": "<img class=rightImg src=cogan_det.png /> <br> American Ophthalmologist <br><br> Born 1908 <br> Fall River, Massachusets <br><br> Died 9th September, 1993 <br> Bethesda. <br><br><br> Eponym <br><br> Cogan&rsquo;s sign -Cogan&rsquo;s lid twitch, in patients with myasthenia. When the patient&rsquo;s eyes are directed downward for 10 to 20 seconds and the patient is then instructed to make a vertical saccade back to primary position, the upper eyelid elevates and either slowly begins to droop or else twitches several times before settling into a stable position <br><br> Cogan-Reese disease - A syndrome characterized by a matted or smudged appearance to the surface of the iris, unilateral glaucoma in the eyes with multiple peripheral anterior synechiae, multiple nodules of the iris, and ectopic Descemet&rsquo;s membrane. <br><br> Cogan&rsquo;s syndrome- Syndrome of interstitial keratitis characterized by abrupt onset of vertigo, tinnitus, and usually rapid development of bilateral deafness. <br><br>  <a href=http://www.mrcophth.com/ophthalmologyhalloffame/cogan.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Dalrymple":{
+            "Headers":[
+               "John Dalrymple"
+            ],
+            "Contents":{
+               "John Dalrymple": "<img class=rightImg src=dalrymple_det.png /> English Ophthalmologist <br><br> Born 1803 <br> Norwich <br><br> Died May 2, 1852 <br> London. <br><br><br> Eponym <br><br> Dalrymple&rsquo;s sign - Widened palpebral tissue or lid spasm seen in thyrotoxicosis &#40;Basedow&rsquo;s disease&#41;, causing abnormal wideness of the palpebral fissure. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/dalrymple.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Doyne":{
+            "Headers":[
+               "Robert Walter Doyne"
+            ],
+            "Contents":{
+               "Robert Walter Doyne": "<img class=rightImg src=doyne_det.png /> British Ophthalmologist <br><br> Born 1857 <br><br> Died 1916 <br><br><br> Eponym <br><br> Doyne honeycomb choroiditis - the occurrence of colloid bodies &#40;drusen&#41; observed to lie on Bruch&rsquo;s membrane in certain families who lived in Oxford, England. These drusen tended to merge together and eventually become confluent, resembling a honeycomb; hence, the name Doyne&rsquo;s honeycomb choroiditis. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/doyne.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+		 
+"H_Duane":{
+            "Headers":[
+               "Alexander Duane"
+            ],
+            "Contents":{
+               "Alexander Duane":"<img class=rightImg src=duane_det.png /> American Ophthalmologist <br><br> Born September 1, 1858 <br> Malone, New York <br><br> Died June 10, 1926 <br><br><br> Eponym <br><br> Duane&rsquo;s syndrome - The characteristic lid narrowing and retraction of the globe on adduction, caused by simultaneous contraction of the medial and ateral rectus muscles, help identify the condition. Duane&rsquo;s retraction syndrome is frequently mistaken for a sixth-nerve palsy in infancy because of deficient abduction of the involved eye. In fact, as a cause of limited abduction Duane&rsquo;s syndrome is quite common in children, so it must be kept in mind. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/duane.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Eales":{
+            "Headers":[
+               "Henry Eales"
+            ],
+            "Contents":{
+               "Henry Eales": "<img class=rightImg src=eales_det.png /> British ophthalmologist <br> Consultant in Birmingham and Midland Eye Hospital, <br><br> Born 1852 <br> Newton Abbot <br><br> Died 1913 <br><br><br> Eponym <br><br> Eales&rsquo; disease - Idiopathic inflammatory disorder of the retinal vessels &#40;mainly veins&#41; with recurrent vitreous and retinal haemorrhages giving sudden visual impairment. It is thought to be related to tuberculosis. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/eales.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Edinger":{
+            "Headers":[
+               "Ludwig Edinger"
+            ],
+            "Contents":{
+               "Ludwig Edinger": "<img class=rightImg src=edinger.png /> Neuro-anatomist <br> Founder of modern neuroanatomy <br><br> Born 1855 <br><br> Died 1918 <br><br><br> Eponym <br><br> Edinger&#45;Westphal&rsquo;s nucleus &#61; the parasympathetic nucleus of the oculomotor nerve involves in light reflex. It is the site of damage in Argyll&#45;Robertson&rsquo;s pupils.<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/edinger.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Elschnig":{
+            "Headers":[
+               "Anton Elschnig"
+            ],
+            "Contents":{
+               "Anton Elschnig": "<img class=rightImg src=elschnig.png /> Austrian Ophthalmologist <br><br>Born 22nd August, 1863<br>Leibnitz,Steiermerk <br><br>Died 1939 <br><br><br> Eponym <br><br> Elschnig&#61;s pearl  translucent mass following cataract surgery caused by aberrant attempt of lens epithelium to form lens fibres.<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/elschnig.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Fleischer":{
+            "Headers":[
+               "Bruno Fleischer"
+            ],
+            "Contents":{
+               "Bruno Fleischer": "<img class=rightImg src=fleischer.png /> German Ophthalmologist  <br><br> Born May 2,1874 <br> Stuttgart<br><br> Died 1965 <br><br><br> Eponym <br><br> Fleischer&#39;s ring &#61; Alternative eponyAn incomplete&#44; pigmented greenish or brownish thin line around the cone of the cornea in keratoconus.<br><br>Groenouw-Fleischer dystrophy &#61; A peculiar form of an inheritable, parenchymatous nodular degeneration of cornea, a corneal dystrophy characterized by hyaline degeneration in the absence of acid mucopolysaccharide deposition.<br><br>Kayser-Fleischer ring &#61; Ring of grey-green or brownish-pigmented ring, 1-3 mm broad, in the deep epithelial layers at the outer border of the cornea. Pathogonomic eye symptom due to copper deposition in Wilson&#39;s disease &#40;degeneratio hepatolenticularis&#41;.<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/fleischer.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Francois":{
+            "Headers":[
+               "Jules Fran&ccedil;ois"
+            ],
+            "Contents":{
+               "Jules Fran&ccedil;ois":"<img class=rightImg src=francois.png /> Belgian Ophthalmologist  <br><br> Born 24th May, 1907 <br> Gingelon in the region of Limburg <br><br> Died 14th August, 1984<br>Zermatt, Switzerland<br><br><br> Eponym <br><br> Jules Fran&ccedil;ois studied medicine at the University of Louvain, graduating in 1930. He commenced a private ophthalmologic practice in Charleroi, while also conducting scientific work. This eventually led to his appointment as professor of ophthalmology at the University of Ghent, where he established a modern ophthalmological department. Jules Fran&ccedil;ois published more than 1000 articles. He was an officer of the Order of Leopold II and a chevalier of the L&eacute;gion d&#39;Honneur. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/francois.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Fuchs":{
+            "Headers":[
+               "Ernst Fuchs"
+            ],
+            "Contents":{
+               "Ernst Fuchs":"<img class=rightImg src=fuchs.png />Austrian ophthalmologist, <br><br> Born 14th June, 1851,  <br> Vienna.  <br><br> Died November 21, 1930, <br>Vienna.<br><br><br> Eponym <br><br>Fuchs&#39; corneal dystrophy &#61; Familial degenerative condition of the eye seen more commonly in women, with clouding of the cornea and often complicated by glaucoma<br><br>Fuchs&#39; heterochromic cyclitis &#61; An idiopathic disorder of the eye, with heterochromia, uveitis of the lighter coloured eye, iridocyclitis, keratitic precipitates and often catarct.<br><br>Fuchs&#39; spot &#61; A small black spot on the fundus in high myopia, occurring after macular haemorrhage.<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/fuchs.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Goldmann":{
+            "Headers":[
+               "Hans Goldmann"
+            ],
+            "Contents":{
+               "Hans Goldmann":"<img class=rightImg src=goldmann.png /> Swiss ophthalmologist   <br><br> Born 1899 <br><br> Died 1991<br><br><br> Eponym <br><br> Goldmann perimetry<br><br> Goldmann tonometer<br><br> Goldmann-Favre disease &#61;  A syndrome that consists of congenital retinoschisis indistinguishable ophthalmoscopically from the X-linked recessive type with pigmentation in the fundus, complete night blindness, or loss of the scotopic b-wave of the ERG. The disease is transmitted by autosomal recessive inheritance.<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/goldmann.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Graves Robert James":{
+            "Headers":[
+               "Robert James Graves"
+            ],
+            "Contents":{
+               "Robert James Graves":"<img class=rightImg src=gravesrobertjames.png /> Irish physician <br><br> Born 27th March, 1797<br> Dublin <br><br> Died 20th March, 1853<br>Dublin<br><br><br> Eponym <br><br>Graves was the first physician to fully describe exophthalmic goiter, now called Graves&#39; disease or Basedow&#39;s disease. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/graves.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Haab":{
+            "Headers":[
+               "Otto Haab"
+            ],
+            "Contents":{
+               "Otto Haab":"<img class=rightImg src=haab.png /> Swiss Ophthalmologist <br><br> Born 19th April, 1850<br>W&uuml;lflingen, Canton Z&uuml;rich<br><br> Died 1931<br><br><br> Eponym <br><br>Haab&#39;s lines &#61; horizontal breaks in Descemet membrane occurring in congenital glaucoma <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/haab.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Harada":{
+            "Headers":[
+               "Yoshizo Harada"
+            ],
+            "Contents":{
+               "Yoshizo Harada":"<img class=rightImg src=harada.png />Japanese Ophthalmologist<br><br> Born 1892<br><br> Died 1947<br><br><br> Eponym <br><br>Vogt-Koyanagi-Harada syndrome &#61; A form of uveomeningoencephalitis common in certain parts of the world such as Japan.<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/harada.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Henle":{
+            "Headers":[
+               "Friedrich Gustav Jacob Henle"
+            ],
+            "Contents":{
+               "Friedrich Gustav Jacob Henle":"<img class=rightImg src=henle.png />German anatomist and pathologist <br><br> Born 19th July, 1809<br>F&uuml;rth, near Nuremberg, Bavaria.<br><br> Died 13th May, 1885  <br>G&ouml;ttingen. <br><br><br> Eponym <br><br>Henle&#39;s fibers &#61; the inner fibers of photoreceptors.  <br><br> Hassle-Henle bodies &#61; Small hyaline excrescences in the periphery of the Descemet membrane. They occur because of focal alteration in endothelial cell homeostasis, resulting in modified production or deposition of membrane material in a nonplanar fashion.<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/henle.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Hering":{
+            "Headers":[
+               "Karl Ewald Konstantin Hering"
+            ],
+            "Contents":{
+               "Karl Ewald Konstantin Hering":"<img class=rightImg src=hering.png />German physiologist <br><br> Born August 5th, 1834<br> Alt-Gersdorf, Kingdom of Saxony <br><br> Died January 26, 1918 <br><br><br> Eponym <br><br>Hering&#39;s theory of colour vision &#61; Theory stating that there are 3 sets of color receptors in the visual system.<br><br> Hering-Bielschowsky test &#61; An afterimage test. <br><br> Hering&#39;s tests &#61; Tests for binocular vision.<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/hering.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Hess":{
+            "Headers":[
+               "Carl von Hess"
+            ],
+            "Contents":{
+               "Carl von Hess":"<img class=rightImg src=hess.png />German Ophthalmologist <br><br> Born 1863  <br><br> Died 1923  <br><br><br> Eponym <br><br> Hess chart &#61; Carl von Hess was professor of ophthalmology first at Marburg in 1896, then at Wurzburg in 1900, and finally at Munich in 1912. His main interest is comparative ocular physiology. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/hess.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Horner":{
+            "Headers":[
+               "Johann Friedrich Horner"
+            ],
+            "Contents":{
+               "Johann Friedrich Horner":"<img class=rightImg src=horner.png />Swiss Ophthalmologist<br><br> Born 27th March, 1831 <br> Zurich. <br><br> Died 20th December, 1886 <br>Zurich. <br><br><br> Eponym <br><br> Horner&#39;s syndrome &#61; A syndrome mainly characterised by a trias of miosis, ptosis, and enophthalmos. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/horner.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Hutchinson":{
+            "Headers":[
+               "Jonathan Hutchinson "
+            ],
+            "Contents":{
+               "Jonathan Hutchinson ":"<img class=rightImg src=hutchinson1.png />English Ophthalmologist <br><br> Born 1828 <br><br> Died 1913 <br><br><br> Eponym <br><br> Hutchinson&#39;s sign &#61; Involvement of the tip of the nose from herpes zoster, a sign taken to indicate that the eye may be seriously involved by VZV because of the involvement of the nasal branch of the nasociliary nerve. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/hutchinson.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Knapp":{
+            "Headers":[
+               "Knapp"
+            ],
+            "Contents":{
+               "Knapp":"<img class=rightImg src=knapp.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/knapp.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Koyanagi":{
+            "Headers":[
+               "Koyanagi"
+            ],
+            "Contents":{
+               "Koyanagi":"<img class=rightImg src=koyanagi.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/koyanagi.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Krause":{
+            "Headers":[
+               "Karl Friedrich Theodor Krause"
+            ],
+            "Contents":{
+               "Karl Friedrich Theodor Krause":"<img class=rightImg src=krause.png />German anatomist  <br><br> Born 15th December, 1797 <br> Hannover <br><br> Died 8th June, 1868<br>Hannover<br><br><br> Eponym <br><br> Krause&#39;s glands &#61; Accessory lacrimal glands. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/krause.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Laurence":{
+            "Headers":[
+               "Laurence"
+            ],
+            "Contents":{
+               "Laurence":"<img class=rightImg src=laurence.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/laurence.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Leber":{
+            "Headers":[
+               "Theodor Leber"
+            ],
+            "Contents":{
+               "Theodor Leber":"<img class=rightImg src=leber.png />German Ophthalmologist <br><br> Born 29th February, 1840 <br> Karlsruhe <br><br> Died 1917 <br><br><br> Eponym <br><br> Leber&#39;s congenital amaurosis &#61; Syndrome characterised by severe visual deficiency, with total or nearly total blindness, present at birth or shortly thereafter. <br><br>Leber&#61;s miliary aneurysm &#61; A form of unilateral exudative retinopathy occurring in children before puberty, it is now considered as a milder form of Coat&#39;s disease. <br><br>Leber&#39;s optic atrophy &#61; A rare hereditary form of optic atrophy that usually affects young males. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/leber.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Lefort":{
+            "Headers":[
+               "Le Fort "
+            ],
+            "Contents":{
+               "Le Fort ":"<img class=rightImg src=lefort.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/lefort.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Lindau":{
+            "Headers":[
+               "Arvid Vilhelm Lindau"
+            ],
+            "Contents":{
+               "Arvid Vilhelm Lindau":"<img class=rightImg src=lindau.png />Swedish Pathologist <br><br> Born 1892 <br> Malm&ouml; <br><br> Died 1958  <br><br><br> Eponym <br><br> Von Hippel-Lindau disease &#61; A syndrome characterised by angiomatosis of the retina, haemangioblastoma of the cerebellum and walls of the fourth ventricle, commonly associated with polycystic lesions of the kidney and pancreas.<br><br>Von Hippel-Lindau tumour &#61; A disturbance characterised by angiomata of the retina and cysts and angiomata of the brain and certain visceral organs. <br><br><a href=http://www.mrcophth.com/ophthalmologyhalloffame/lindau.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Maddox":{
+            "Headers":[
+               "Maddox"
+            ],
+            "Contents":{
+               "Maddox":"<img class=rightImg src=maddox.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/maddox.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Marcusgunn":{
+            "Headers":[
+               "Marcus Gunn"
+            ],
+            "Contents":{
+               "Marcus Gunn":"<img class=rightImg src=marcusgunn.png />Scotland <br><br> Born 1850 <br> Dunnet <br><br> Died 1909  <br> Hindhead <br><br><br> Eponym <br><br> Marcus Gunn jaw-winking phenomenon &#61; unilateral eyelid movement with movement of the jaw. <br><br> Marcus Gunn pupil &#61; relative afferent pupillary defect caused by optic nerve lesion or extensive retinal disease.<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/marcusgunn.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Marfan":{
+            "Headers":[
+               "Antoine Bernard-Jean Marfan"
+            ],
+            "Contents":{
+               "Antoine Bernard-Jean Marfan":"<img class=rightImg src=marfan.png />French Paediatrician <br><br> Born 23rd June, 1858  <br>Castelnaudary, d&eacute;partement Aude,Languedoc-Roussillon r&eacute;gion <br><br> Died 1942 <br><br><br> Eponym <br><br> Marfan&#39;s syndrome &#61; A disorder of connective tissue affecting primarily the musculoskeletal system, the cardiovascular system and the eye with dislocation of the lens.   <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/marfan.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Milkulicz":{
+            "Headers":[
+               "Johannes Freiherr von Mikulicz-Radecki"
+            ],
+            "Contents":{
+               "Johannes Freiherr von Mikulicz-Radecki":"<img class=rightImg src=milkulicz.png />Polish Surgeon <br><br> Born 16th May, 1850 <br> Czernowitz, Bukowina, Romania <br><br> Died 4th June, 1905 <br>Breslau, Germany <br><br><br> Eponym <br><br> Mikulicz&#39;s syndrome &#61; Chronic dacryoadenitis with bilateral painless swelling of lacrimal and salivary glands and decreased or absent lacrimation. Seen in sarcoidosis, lymphoma and other infiltrative diseases.  <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/milkulicz.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Moebius":{
+            "Headers":[
+               "Paul Julius M&ouml;bius"
+            ],
+            "Contents":{
+               "Paul Julius M&ouml;bius":"<img class=rightImg src=moebius.png />German Neurologist  <br><br> Born January 24, 1853 <br> Leipzig <br><br> Died 1907<br>Leipzig <br><br><br> Eponym <br><br> M&ouml;bius&#39;s syndrome &#61; A congenital syndrome characterized by congenital palsy of the external rectus and facial muscles, usually bilateral, associated with paralysis of the sixth and seventh nerves.  <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/moebius.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Moll":{
+            "Headers":[
+               "Jacob Anton Moll"
+            ],
+            "Contents":{
+               "Jacob Anton Moll":"<img class=rightImg src=moll.png />Anatomist from Utrecht <br><br> Born 1833  <br><br> Died 1914 <br><br><br> Eponym <br><br> Glands of Moll<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/moll.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Moon":{
+            "Headers":[
+               "Moon"
+            ],
+            "Contents":{
+               "Moon":"<img class=rightImg src=moon.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/moon.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Mooren":{
+            "Headers":[
+               "Mooren"
+            ],
+            "Contents":{
+               "Mooren":"<img class=rightImg src=mooren.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/mooren.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Morgagni":{
+            "Headers":[
+               "Morgagni"
+            ],
+            "Contents":{
+               "Morgagni":"<img class=rightImg src=morgagni.png />Italian anatomist<br><br> Born 25 February 1682 <br><br> Died 6 December 1771 <br><br><br> Eponym <br><br> Morgagni&#39;s cataract &#61; Hypermature cataract in which the cortex is liquefied leaving behind a brown nucleus that sinks to the bottom of the lens. <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/morgagni.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Muller":{
+            "Headers":[
+               "Muller"
+            ],
+            "Contents":{
+               "Muller":"<img class=rightImg src=muller.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/muller.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Parinaud":{
+            "Headers":[
+               "Henri Parinaud"
+            ],
+            "Contents":{
+               "Henri Parinaud":"<img class=rightImg src=parinaud.png />French ophthalmologist and neurologist  <br><br> Born 1844  <br><br> Died 1905<br><br><br> Eponym <br><br>Parinaud&#39;s syndrome &#61; A dorsal midbrain lesion such as pinealoma which results in vertical gaze palsy, convergence-retraction nystagmus and light-near dissociation.<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/parinaud.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Purkinje":{
+            "Headers":[
+               "Jan Evangelista Purkinje &#40;Purkyne&#41;"
+            ],
+            "Contents":{
+               "Jan Evangelista Purkinje &#40;Purkyne&#41;":"<img class=rightImg src=purkinje.png />Czech physician and neurophysiologist <br><br> Born 1787 <br><br> Died 1869 <br><br><br> Eponym <br><br> He was appointed as Professor of Physiology at the University of Prague, where he discovered the phenomenon known as the Pukinje effect &#40;as light intensity decreases, red objects are perceived to fade faster than blue objects of the same brightness&#41;.  <br><br> An early user of the improved compound microscope, he discovered the sweat glands of the skin in 1833, germinal vessicles in 1825, recognized fingerprints as a means of identification in 1823 and noted the protein-digesting power of pancreatic extracts in 1836.  <br><br> Johannes Evangelista Purkinje was a pioneer to experimental physiology whose investigations in the fields of histology, embryology and pharmacology helped to create a modern understanding of the eye and vision, brain and heart function, mammalian reproduction and the composition of cells.  <br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/purkinje.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Purtscher":{
+            "Headers":[
+               "Othmar Purtscher "
+            ],
+            "Contents":{
+               "Othmar Purtscher ":"<img class=rightImg src=purtscher.png />Austrian Ophthalmologist <br><br> Born 1852  <br><br> Died 1927 <br><br><br> Eponym <br><br> Purtscher&#39;s retinopathy &#61; patches of retinal whitening, retinal hemorrhages, and disc oedema after compression injury to the head. Patients may experience loss of vision in one or both eyes. Similar retinal abnormalities has been observed after severe compression injury to the chest.<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/purtscher.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Reiter":{
+            "Headers":[
+               "Hans Conrad Julius Reiter "
+            ],
+            "Contents":{
+               "Hans Conrad Julius Reiter ":"<img class=rightImg src=reiter.png />German bacteriologist and hygienist <br><br> Born 26th February, 1881 <br> Reudnitz near Leipzig <br><br> Died 1969 <br> Hessen <br><br><br> Eponym <br><br> Reiter&#39;s syndrome &#61; The classic triad consists of conjunctivitis, urethritis, and arthritis; other characteristic features include heel pain, skin and mucous membrane lesions, and bone changes. This condition typically affects young men who are HLA B 27 positive.<br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/reiter.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Sachs":{
+            "Headers":[
+               "Sachs"
+            ],
+            "Contents":{
+               "Sachs":"<img class=rightImg src=sachs.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/sachs.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Salzmann":{
+            "Headers":[
+               "Salzmann"
+            ],
+            "Contents":{
+               "Salzmann":"<img class=rightImg src=salzmann.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/salzmann.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Schirmer":{
+            "Headers":[
+               "Schirmer"
+            ],
+            "Contents":{
+               "Schirmer":"<img class=rightImg src=schirmer.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/schirmer.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Schlemm":{
+            "Headers":[
+               "Schlemm"
+            ],
+            "Contents":{
+               "Schlemm":"<img class=rightImg src=schlemm.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/schlemm.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Seidel":{
+            "Headers":[
+               "Seidel"
+            ],
+            "Contents":{
+               "Seidel":"<img class=rightImg src=seidel.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/seidel.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Sherrington":{
+            "Headers":[
+               "Sherrington"
+            ],
+            "Contents":{
+               "Sherrington":"<img class=rightImg src=sherrington.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/sherrington.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Sjogren":{
+            "Headers":[
+               "Sjogren"
+            ],
+            "Contents":{
+               "Sjogren":"<img class=rightImg src=sjogren.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/sjogren.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Snellen":{
+            "Headers":[
+               "Snellen"
+            ],
+            "Contents":{
+               "Snellen":"<img class=rightImg src=snellen.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/snellen.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Soemmering":{
+            "Headers":[
+               "Soemmering"
+            ],
+            "Contents":{
+               "Soemmering":"<img class=rightImg src=soemmering.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/soemmering.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Stargardt":{
+            "Headers":[
+               "Stargardt"
+            ],
+            "Contents":{
+               "Stargardt":"<img class=rightImg src=stargardt.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/stargardt.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Sturge":{
+            "Headers":[
+               "Sturge"
+            ],
+            "Contents":{
+               "Sturge":"<img class=rightImg src=sturge.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/sturge.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Tay":{
+            "Headers":[
+               "Tay"
+            ],
+            "Contents":{
+               "Tay":"<img class=rightImg src=tay.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/tay.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Tenon":{
+            "Headers":[
+               "Tenon"
+            ],
+            "Contents":{
+               "Tenon":"<img class=rightImg src=tenon.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/tenon.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Terrien":{
+            "Headers":[
+               "Terrien"
+            ],
+            "Contents":{
+               "Terrien":"<img class=rightImg src=terrien.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/terrien.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Terson":{
+            "Headers":[
+               "Terson"
+            ],
+            "Contents":{
+               "Terson":"<img class=rightImg src=terson.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/terson.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Treacher Collins":{
+            "Headers":[
+               "Treacher Collins"
+            ],
+            "Contents":{
+               "Treacher Collins":"<img class=rightImg src=treachercollins.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/treachercollins.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Uhtoff":{
+            "Headers":[
+               "Uhtoff"
+            ],
+            "Contents":{
+               "Uhtoff":"<img class=rightImg src=uhtoff.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/uhtoff.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Usher":{
+            "Headers":[
+               "Usher"
+            ],
+            "Contents":{
+               "Usher":"<img class=rightImg src=usher.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/usher.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Vogt":{
+            "Headers":[
+               "Vogt"
+            ],
+            "Contents":{
+               "Vogt":"<img class=rightImg src=vogt.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/vogt.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Von Graef":{
+            "Headers":[
+               "Von Graef"
+            ],
+            "Contents":{
+               "Von Graef":"<img class=rightImg src=vongraef.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/vongraef.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Von Hippel":{
+            "Headers":[
+               "Von Hippel"
+            ],
+            "Contents":{
+               "Von Hippel":"<img class=rightImg src=vonhippel.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/vonhippel.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Von Hippel Eugene":{
+            "Headers":[
+               "Von Hippel Eugene"
+            ],
+            "Contents":{
+               "Von Hippel Eugene":"<img class=rightImg src=vonhippeleugene.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/vonhippeleugene.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Von Reckling Hausen":{
+            "Headers":[
+               "Von Reckling Hausen"
+            ],
+            "Contents":{
+               "Von Reckling Hausen":"<img class=rightImg src=vonrecklinghausen.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/vonrecklinghausen.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Waarden Burg":{
+            "Headers":[
+               "Waarden Burg"
+            ],
+            "Contents":{
+               "Waarden Burg":"<img class=rightImg src=waardenburg.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/waardenburg.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Weber":{
+            "Headers":[
+               "Weber"
+            ],
+            "Contents":{
+               "Weber":"<img class=rightImg src=weber.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/weber.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },        
+
+"H_Westphal":{
+            "Headers":[
+               "Westphal"
+            ],
+            "Contents":{
+               "Westphal":"<img class=rightImg src=westphal.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/westphal.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Wilbrand":{
+            "Headers":[
+               "Wilbrand"
+            ],
+            "Contents":{
+               "Wilbrand":"<img class=rightImg src=wilbrand.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/wilbrand.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Winter Steiner":{
+            "Headers":[
+               "Winter Steiner"
+            ],
+            "Contents":{
+               "Winter Steiner":"<img class=rightImg src=wintersteiner.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/wintersteiner.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+"H_Zinn":{
+            "Headers":[
+               "Zinn"
+            ],
+            "Contents":{
+               "Zinn":"<img class=rightImg src=zinn.png /><br><br><br><br><br> <a href=http://www.mrcophth.com/ophthalmologyhalloffame/zinn.html> Click here to Read More </a> <br><br> We would like to thank Prof.CN Chua for the kind permission to share this information."
+            }
+         },
+		 "FA_Prentice’s Rule":
+    {
+        "Headers":[
+                   "Name",
+                   "Formula",
+                   "Use"
+                   ],
+        "Contents":{
+            "Name":"Prentice’s Rule",
+            "Formula":"<span class=formula>P &#61; cf</span><br>where,<br><br>P &#61; amount of prism correction in prism diopters<br><br>c &#61; decentration &#40;the distance between the pupil centre and the lens’s optical centre, in centimeters&#41;<br><br>f &#61; lens power in diopters",
+            "Use":"To determine the amount of induced prism in a lens"
+        }
+    },
+    "FA_Focal Length":
+    {
+        "Headers":[
+                   "Name",
+                   "Formula",
+                   "Use"
+                   ],
+        "Contents":{
+            "Name":"Focal Length",
+            "Formula":"<span class=formula>FL &#61; 1&frasl;Diopter</span><br>where,<br><br>FL &#61; Focal Length",
+            "Use":"To find out the focal length of a lens."
+        }
+    },
+    "FA_Radius of Curvature":
+    {
+        "Headers":[
+                   "Name",
+                   "Formula",
+                   "Use"
+                   ],
+        "Contents":{
+            "Name":"Radius of Curvature",
+            "Formula":"<span class=formula>RoC &#61; &#40;n-1&#41;&frasl;diopters</span><br>where,<br><br>n &#61; refractive index of the lens",
+            "Use":"To find out the radius of curvature of a lens"
+        }
+    },
+    "FA_Brewster’s angle":
+    {
+        "Headers":[
+                   "Name",
+                   "Formula",
+                   "Use"
+                   ],
+        "Contents":{
+            "Name":"Brewster&#39;s angle",
+            "Formula":"<br><img class=leftImg src=f_brewster_angle.png>",
+            "Use":"This angle is angle of incidence where the reflected light is linearly polarized"
+        }
+    },
+    "FA_Spherical Equivalent":
+    {
+        "Headers":[
+                   "Name",
+                   "Formula",
+                   "Use"
+                   ],
+        "Contents":{
+            "Name":"Spherical Equivalent",
+            "Formula":"<span class=formula>Spherical power &#43; &frac12; Cylindrical power</span>",
+            "Use":"Used in contact lens fitting"
+        }
+    },
+    "FA_Sanders-Retzlaff-Kraff (SRK)":
+    {
+        "Headers":[
+                   "Name",
+                   "Formula",
+                   "Use"
+                   ],
+        "Contents":{
+            "Name":"Sanders-Retzlaff-Kraff &#40;SRK&#41; Formula",
+            "Formula":"<span class=formula>D &#61; A - 0.9K - 2.5L</span><br>where,<br><br>D &#61; Power in Dioptres for Emmetropia<br><br>A &#61; A constant for each type of intraocular lens<br><br>L &#61; axial length in mm<br><br>K &#61; average keratometer readings in diopters",
+            "Use":"It is used to calculate Intraocular Lens &#40;IOL&#41; power for implantation in Cataract Surgery."
+        }
+    },
+	"M_P_Developmental Cataract":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Developmental Cataract","Description":"<img src=developmental_cataract.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Dr.Anthony Vipin Das &#40;L V Prasad Eye Institute&#41;</p><br><p>This Image is captured using the GANANT-LVPEI  Slit Lamp Adapter. To download your own and 3D print it <a href=http://www.thingiverse.com/ganant/designs>Click Here</a></p>"}
+    },
+    "M_P_Granular Dystrophy":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Granular Dystrophy","Description":"<img src=granular_dystrophy.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Dr.Anthony Vipin Das &#40;L V Prasad Eye Institute&#41;</p> <br><p>This Image is captured using the GANANT-LVPEI  Slit Lamp Adapter. To download your own and 3D print it <a href=http://www.thingiverse.com/ganant/designs>Click Here</a></p>"}
+    },
+    "M_P_Normal Eye":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Normal Eye","Description":"<img src=normal_eye.jpg style={margin-left:40%} width=300dp height=300dp> <p> Picture Courtesy -<br> Dr.Anthony Vipin Das &#40;L V Prasad Eye Institute&#41;</p><br><p>This Image is captured using the GANANT-LVPEI  Slit Lamp Adapter. To download your own and 3D print it <a href=http://www.thingiverse.com/ganant/designs>Click Here</a></p>"}
+    },
+    "M_P_OSSN":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"OSSN","Description":"<img src=ossn_1.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Dr.Anthony Vipin Das &#40;L V Prasad Eye Institute&#41;</p> <br><p>This Image is captured using the GANANT-LVPEI  Slit Lamp Adapter. To download your own and 3D print it <a href=http://www.thingiverse.com/ganant/designs>Click Here</a></p>"}
+    },
+    "M_P_Pterygium":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Pterygium","Description":"<img src=pterygium_1.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Dr.Anthony Vipin Das &#40;L V Prasad Eye Institute&#41;</p><br><p>This Image is captured using the GANANT-LVPEI  Slit Lamp Adapter. To download your own and 3D print it <a href=http://www.thingiverse.com/ganant/designs>Click Here</a></p>"}
+    },
+    "M_P_Acute Angle Closure Glaucoma":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Acute Angle Closure Glaucoma","Description":"<img src=aac_glaucoma.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },
+    "M_P_Anterior Lenticonus":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Anterior Lenticonus","Description":"<img src=a_lenticonus.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Christmas Tree Cataract":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Christmas Tree Cataract","Description":"<img src=ct_cataract.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Ciliary Cyst":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Ciliary Cyst","Description":"<img src=ciliarycyst.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Cogan Reese Syndrome":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Cogan Reese Syndrome","Description":"<img src=cr_syndrome.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Conjunctival Papillae":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Conjunctival Papillae","Description":"<img src=conjpapillae.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },"M_P_FHC-Iris Pattern":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"FHC-Iris Pattern","Description":"<img src=fhciris_pattern.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Giant Papillae":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Giant Papillae","Description":"<img src=giantpapillae.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Glaucoma Flecken":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Glaucoma Flecken","Description":"<img src=glaucomaflecken.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Iridoschisis":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Iridoschisis","Description":"<img src=iridoschisis.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Iris Bombe":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Iris Bombe","Description":"<img src=iris_bombe_1.jpg style={margin-left:40%} width=300dp height=300dp><br><br><img src=iris_bombe_2.jpg style={margin-left:20%} width=300dp height=200dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Keratoconus":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Keratoconus","Description":"<img src=keratoconus.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Keratoglobus":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Keratoglobus","Description":"<img src=keratoglobus.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Kruckenberg's Spindle":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Kruckenberg&#39;s Spindle","Description":"<img src=kruckenberg_spindle.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_AAC Glaucoma":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Acute Angle Closure Glaucoma","Description":"<img src=aac_glaucoma.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Morgagnian Cataract":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"Morgagnian Cataract","Description":"<img src=morgagnian_cataract.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_NVI":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"NVI","Description":"<img src=nvi.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_PXF-Lens Capsule":{
+        "Headers":["Title","Description"],
+        "Contents":{"Title":"PXF-Lens Capsule","Description":"<img src=pxf_lens_capsule.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_PXF-Pupillary Margin":{
+        "Headers":["Title","Desc"],
+        "Contents":{"Title":"PXF-Pupillary Margin","Desc":"<img src=pxf_pupillary_margin.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Spherophakia-Clear Lens in AC":{
+        "Headers":["Title","Desc"],
+        "Contents":{"Title":"Spherophakia- Clear Lens in AC","Desc":"<img src=spherophakia_clear_lens.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },   "M_P_Spherophakia":{
+        "Headers":["Title","Desc"],
+        "Contents":{"Title":"Spherophakia","Desc":"<img src=spherophakia.jpg style={margin-left:40%} width=300dp height=300dp><p> Picture Courtesy -<br> Uday Addepalli &#40;L V Prasad Eye Institute&#41;</p>"}
+    },
+    
+    "M_V_Subhyaloid Haem with Asteroid Hyalosis":{
+        "Headers":["Title","Desc"],
+        "Contents":{"Title":"Subhyaloid Haem with Asteroid Hyalosis","Desc":"<video width=300 height=300 controls><source src=https://s3-ap-southeast-1.amazonaws.com/eyetouch/SUTPPV.mp4 type=video/mp4>Your browser does not support the video tag.</video><p>Video Courtesy -<br>Dr. Jay Chabblani &#40;L V Prasad Eye Institute&#41;</p>"}
+    },
+    "M_V_Simple Limbal Epithelial Transplantation":{
+        "Headers":["Title","Link"],
+        "Contents":{"Title":"Simple Limbal Epithelial Transplantation","Link":"<video width=300 height=300 controls><source src=https://s3-ap-southeast-1.amazonaws.com/eyetouch/SLET.mp4 type=video/mp4>Your browser does not support the video tag.</video><p>Video Courtesy -<br>Dr. Virender Sangwan &#40;L V Prasad Eye Institute&#41;</p>"}
+    }
+		 
+}

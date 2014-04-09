@@ -1,0 +1,126 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'codropsicons';
+	/* src:url('../fonts/codropsicons/codropsicons.eot');
+	src:url('../fonts/codropsicons/codropsicons.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/codropsicons/codropsicons.woff') format('woff'),
+		url('../fonts/codropsicons/codropsicons.ttf') format('truetype'),
+		url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg'); */
+}
+
+body {
+	color: #fff;
+	font-family: 'Lato', Arial, sans-serif;
+}
+
+a,
+a:focus {
+	outline: none;
+}
+
+
+.codrops-links a:hover,
+.codrops-links a:focus {
+	opacity: 1;
+}
+
+.codrops-links
+{
+	position: absolute;
+	margin-left: 50%;
+	margin-top: 2%;
+	max-width: 100%;
+	text-align: right;
+}
+
+.codrops-links a {
+
+	outline: none;
+	color: #f00;
+	text-decoration: none;
+	opacity: 0.7;
+	margin-left: 90%;
+	position: relative;
+	display: inline-block;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 75%;
+}
+
+.codrops-icon:before {
+	text-transform: none;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-family: 'codropsicons';
+	line-height: 1;
+	speak: none;
+	-webkit-font-smoothing: antialiased;
+}
+
+.codrops-icon-drop:before {
+	content: "\e001";
+}
+
+.codrops-icon-prev:before {
+	content: "\e004";
+}
+
+/* Demo Buttons Style */
+.codrops-demos {
+	padding: 2em 0 3em;
+}
+
+.codrops-demos a {
+	display: inline-block;
+	margin: 0.5em;
+	padding: 0.7em 1.1em;
+	outline: none;
+	border: 3px solid rgba(0,0,0,0.3);
+	color: rgba(0,0,0,0.3);
+	text-decoration: none;
+	font-weight: 700;
+	opacity: 1;
+	-webkit-transition: all 0.2s;
+	transition: all 0.2s;
+}
+
+.codrops-demos a:hover,
+.codrops-demos a.current-demo,
+.codrops-demos a.current-demo:hover,
+.codrops-demos a:focus {
+	border-color: #fff;
+	color: #fff;
+}
+
+/* Related demos */
+
+.codrops-related {
+	padding-bottom: 2em;
+	color: rgba(0,0,0,0.4);
+}
+
+.codrops-related a {
+	display: inline-block;
+	margin-top: 0.5em;
+}
+
+@media screen and (max-width: 30em) {
+	body {
+		font-size: 90%;
+	}
+}
+
+@media screen and (max-height: 29em) {
+	.container {
+		height: auto;
+	}
+	.codrops-header {
+		position: relative;
+		margin: 0 auto;
+		height: auto;
+		max-width: 100%;
+	}
+}

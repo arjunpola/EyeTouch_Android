@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<title>Eye Touch</title>
+		<link rel="stylesheet" type="text/css" href="css2_normalize.css" />
+		<link rel="stylesheet" type="text/css" href="css2_demo.css" />
+		<link rel="stylesheet" type="text/css" href="css2_icons.css" />
+		<link rel="stylesheet" type="text/css" href="css2_style5.css" />
+		<link rel="stylesheet" type="text/css" href="css2_team.css" />
+        <script src="js2_modernizr.custom.js"></script>
+		<script src="js2_jquery.min.js"></script>
+	</head>
+	<body>
+		<div class="container">
+
+				<a class="goBack" onclick="gallery()"><span>Go Back</span></a>
+		</div><!-- /container -->
+
+<div id="scrollable">
+<!-- <div id="Introduction" class="info">
+			</div> -->
+		</div>
+	</body>
+	<script type="text/javascript">
+	var active,passive,duplicate;
+	var sideLists = new Array();
+	var screen = "small";
+
+	function Android_getInfo(tot,dev,con)
+	{
+		tot = JSON.parse(tot);
+		dev = JSON.parse(dev);
+		con = JSON.parse(con);
+		
+		$("#scrollable").html("");
+        fillContent(tot,dev,con)
+	}
+	
+	function fillContent(tot,dev,con)
+	{
+		cssClass = "info_small";
+	/* 	contents = JSON.parse(contents) */
+	
+		 var teamTitle = "<br><img src=team_thought.png />";
+		 $("#scrollable").append(teamTitle);
+		
+		 for(var i in tot)
+			{
+			 	if(i % 2 == 0)  
+					var htmlNode = "<div class = 'container_lt'><img src='"+tot[i].Image+"'/><span>"+tot[i].Name+"</span><p>"+tot[i].Content+"</p></div><hr />";
+				else
+					var htmlNode = "<div class = 'container_rt'><img src='"+tot[i].Image+"'/><span>"+tot[i].Name+"</span><p>"+tot[i].Content+"</p></div><hr />";
+				
+				$("#scrollable").append(htmlNode);
+			}
+		 
+		 teamTitle = "<img src=team_development.png />";
+		 $("#scrollable").append(teamTitle);
+	
+		 for(var i in dev)
+			{
+			 	if(i % 2 == 0)  
+					var htmlNode = "<div class = 'container_lt'><img src='"+dev[i].Image+"'/><span>"+dev[i].Name+"</span><p>"+dev[i].Content+"</p></div><hr noshade>";
+				else
+					var htmlNode = "<div class = 'container_rt'><img src='"+dev[i].Image+"'/><span>"+dev[i].Name+"</span><p>"+dev[i].Content+"</p></div><hr noshade>";
+				
+				$("#scrollable").append(htmlNode);
+			}
+		 
+		 teamTitle = "<img src=team_contributors.png />";
+		 $("#scrollable").append(teamTitle);
+		 
+		 for(var i in con)
+			{
+                if(con[i+1]){
+			 	if(i % 2 == 0)
+					var htmlNode = "<div class = 'container_lt'><img src='"+con[i].Image+"'/><span>"+con[i].Name+"</span><p>"+con[i].Content+"</p></div><hr noshade>";
+				else
+					var htmlNode = "<div class = 'container_rt'><img src='"+con[i].Image+"'/><span>"+con[i].Name+"</span><p>"+con[i].Content+"</p></div><hr noshade>";
+                }
+                else
+                {
+                    if(i % 2 == 0)
+					var htmlNode = "<div class = 'container_lt'><img src='"+con[i].Image+"'/><span>"+con[i].Name+"</span><p>"+con[i].Content+"</p></div><hr noshade>";
+                    else
+					var htmlNode = "<div class = 'container_rt'><img src='"+con[i].Image+"'/><span>"+con[i].Name+"</span><p>"+con[i].Content+"</p></div><hr noshade>";
+                }
+				
+				$("#scrollable").append(htmlNode);
+			}
+		
+	}
+	
+	function gallery() {
+        Android.gallery();
+    }
+	
+	</script>
+	<script src="js2_classie.js"></script>
+<!-- 	<script src="js2_bordermenu.js"></script> -->
+</html>

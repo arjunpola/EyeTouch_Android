@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EyeTouch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_weather">Weather Information</string>
+	<string name="strCity">SydneySydneySydneySydneySydney</string>
+	<string name="strWeather">Sunny</string>
+	<string name="strTemp">32°C</string>
+	<string name="txtTemp">Temp</string>	
+	<string name="strWindSpeed">5kmph</string>
+	<string name="txtWindSpeed">WindSpeed</string>
+	<string name="Separator">---</string>
+	<string name="CD_history">H</string>
+	<string name="CD_anatomy">A</string>
+	<string name="CD_guestA">GA</string>
+	<string name="CD_report">R</string>
+	<string name="CD_clinicalT">CT</string>
+	<string name="CD_formulae">FA</string>
+	<string name="CD_classifications">C</string>
+	<string name="CD_diagnosis">DI</string>
+	<string name="CD_drugs">D</string>
+	<string name="CD_educate">E</string>
+	<string name="CD_media">M</string>
+	<string name="CD_meetTH">MTH</string>
+	
+	<string-array name="purpose">
+	    <item>Contributor</item>
+	    <item>Ophthalmologist</item>
+	    <item>User</item>
+	</string-array>
+	<string name="search_hint">Search Here</string>
+</resources>

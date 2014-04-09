@@ -1,0 +1,411 @@
+{
+   "Af" : {
+      "Headers" : [
+         "Eyelids",
+         "Cornea",
+         "Conjunctiva",
+         "Sclera",
+         "Anterior Chamber",
+         "Iris",
+         "Pupil",
+         "Lens"
+      ],
+      "icons" : [
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip"
+      ]
+      },
+   "Au" : {
+      "Headers" : [
+          "Vitreous",
+          "Extra Ocular Muscles",
+          "Choroid",
+         "Retina"
+         ],
+      "icons" : [
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip"
+         ]
+         },
+    "Ad" : {
+       "Headers" : [
+         "Vitreous",
+         "Fovea",
+         "Macula",
+         "Extra Ocular Muscles"
+         ],
+         "icons" : [
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip"
+         ]
+         },
+   "Ab" : {
+       "Headers" : [
+       "Orbit",
+       "Visual Pathway",
+       "Systemic diseases",
+       "Optic Nerve"
+       ],
+       "icons" : [
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip"
+         ]
+         },
+   "DIf" : {
+      "Headers" : [
+      "Ocular Trauma",
+         "Cornea and Anterior Segment",
+         "Uvea",
+         "Glaucoma",
+         "Cataract",
+         "Oculoplasty"
+      ],
+      "icons" : [
+      "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip"
+      ]
+      },
+   "DIu" : {
+      "Headers" : [
+      "Retina and Vitreous",
+      "Pediatric Ophthalmology"
+      ],
+      "icons" : [
+      "transparent_strip",
+         "transparent_strip"
+      ]
+      },
+   "DId" : {
+      "Headers" : [
+      "Retina and Vitreous",
+      "Pediatric Ophthalmology"
+      ],
+      "icons" : [
+      "transparent_strip",
+         "transparent_strip"
+      ]
+      },
+   "DIb" : {
+      "Headers" : [
+      "Neuro-Opthalmology",
+      "Systemic Diseases"
+      ],
+      "icons" : [
+      "transparent_strip",
+         "transparent_strip"
+      ]
+      },
+   
+	  "CT" : {
+      "Headers" : [
+         "Ptosis Evaluation",
+         "Van Hericks Technique",
+		 "Fundus examination"
+      ],
+      "icons" : [
+         "transparent_strip",
+         "transparent_strip",
+		 "transparent_strip"
+      ]
+      },
+   
+   
+   "C" : {
+      "Headers" : [
+         "Mackie Classification"
+      ],
+      "icons" : [
+         "transparent_strip"
+      ]
+   },
+      
+  "D" : {
+      "Headers" : [
+          "Acetazolamide",
+          "Ciprofloxacin",
+          "Prednisolone",
+          "Chloramphenicol Eye Drops",
+          "Atropine Eye Drops",
+          "Brimonidine Eye Drops",
+          "Olopatadine Eye Drops",
+          "Cromoglycate Eye Drops",
+          "Loteprednol Eye Drops",
+          "Timolol Eye Drops"
+      ],
+      "icons" : [
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip",
+         "transparent_strip"
+      ]
+   },
+   "H" : {
+      "Headers" : [
+          "Adie",
+          "Amsler",
+          "Argyll Robertson",
+          "Arlt",
+          "Axenfeld",
+          "Behcet",
+          "Behr",
+          "Bell",
+          "Best",
+          "Bielschowsky",
+          "Bjerrum",
+          "Bowman",
+          "Bruch",
+          "Cloquet",
+          "Coats",
+          "Cogan",
+          "Dalrymple",
+          "Doyne",
+          "Duane",
+          "Eales",
+          "Edinger",
+          "Elschnig",
+          "Fleischer",
+          "Francois",
+          "Fuchs",
+          "Goldmann",
+          "Graves Robert James",
+          "Haab",
+          "Harada",
+          "Henle",
+          "Hering",
+          "Hess",
+          "Horner",
+          "Hutchinson",
+          "Knapp",
+          "Koyanagi",
+          "Krause",
+          "Laurence",
+          "Leber",
+          "Lefort",
+          "Lindau",
+          "Maddox",
+          "Marcusgunn",
+          "Marfan",
+          "Milkulicz",
+          "Moebius",
+          "Moll",
+          "Moon",
+          "Mooren",
+          "Morgagni",
+          "Muller",
+          "Parinaud",
+          "Purkinje",
+          "Purtscher",
+          "Reiter",
+          "Sachs",
+          "Salzmann",
+          "Schirmer",
+          "Schlemm",
+          "Seidel",
+          "Sherrington",
+          "Sjogren",
+          "Snellen",
+          "Soemmering",
+          "Stargardt",
+          "Sturge",
+          "Tay",
+          "Tenon",
+          "Terrien",
+          "Terson",
+          "Treacher Collins",
+          "Uhtoff",
+          "Usher",
+          "Vogt",
+          "Von Graef",
+          "Von Hippel",
+          "Von Hippel Eugene",
+          "Von Reckling Hausen",
+          "Waarden Burg",
+          "Weber",
+          "Westphal",
+          "Wilbrand",
+          "Winter Steiner",
+          "Zinn"                          
+          ],
+          "icons" : [
+          "adie",
+         "amsler",
+         "argyllrobertson",
+         "arlt",
+         "axenfeld",
+         "behcet",
+         "behrcarl",
+         "bell",
+         "best",
+         "bielschowsky",
+         "bjerrum",
+         "bowman",
+         "bruch",
+         "cloquet",
+         "coats",
+         "cogan",
+         "dalrymple",
+         "doyne",
+         "duane",
+         "eales",
+         "edinger",
+         "elschnig",
+         "fleischer",
+          "francois",
+          "fuchs",
+          "goldmann",
+          "gravesrobertjames",
+          "haab",
+          "harada",
+          "henle",
+          "hering",
+          "hess",
+          "horner",
+          "hutchinson1",
+          "knapp",
+          "koyanagi",
+          "krause",
+          "laurence",
+          "leber",
+          "lefort",
+          "lindau",
+          "maddox",
+          "marcusgunn",
+          "marfan",
+          "milkulicz",
+          "moebius",
+          "moll",
+          "moon",
+          "mooren",
+          "morgagni",
+          "muller",
+          "parinaud",
+          "purkinje",
+          "purtscher",
+          "reiter",
+          "sachs",
+          "salzmann",
+          "schirmer",
+          "schlemm",
+          "seidel",
+          "sherrington",
+          "sjogren",
+          "snellen",
+          "soemmering",
+          "stargardt",
+          "sturge",
+          "tay",
+          "tenon",
+          "terrien",
+          "terson",
+          "treachercollins",
+          "uhtoff",
+          "usher",
+          "vogt",
+          "vongraef",
+          "vonhippel",
+          "vonhippeleugene",
+          "vonrecklinghausen",
+          "waardenburg",
+          "weber",
+          "westphal",
+          "wilbrand",
+          "wintersteiner",
+          "zinn"  
+            ]
+          },
+		   "FA":{
+        "Headers":[
+                   "Prentice’s Rule",
+                   "Focal Length",
+                   "Radius of Curvature",
+                   "Brewster’s angle",
+                   "Spherical Equivalent",
+                   "Sanders-Retzlaff-Kraff (SRK)"
+                   ],
+        "icons":[
+                 "transparent_strip",
+                 "transparent_strip",
+                 "transparent_strip",
+                 "transparent_strip",
+                 "transparent_strip",
+                 "transparent_strip"
+                 ]
+    },
+	"M_P":{
+        "Headers" : [
+                     "Developmental Cataract",
+                     "Granular Dystrophy",
+                     "Normal Eye",
+                     "OSSN",
+                     "Pterygium",
+                     "FHC-Iris Pattern",
+                     "Giant Papillae",
+                     "Glaucoma Flecken",
+                     "Iridoschisis",
+                     "Iris Bombe",
+                     "Keratoconus",
+                     "Keratoglobus",
+                     "Kruckenberg's Spindle",
+                     "Morgagnian Cataract",
+                     "NVI",
+                     "PXF-Lens Capsule",
+                     "PXF-Pupillary Margin",
+                     "Spherophakia-Clear Lens in AC",
+                     "Spherophakia"
+                     ],
+        "icons" : [
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   "transparent_strip",
+                   ]
+    },
+    "M_V":{
+        "Headers":[
+        "Subhyaloid Haem with Asteroid Hyalosis",
+        "Simple Limbal Epithelial Transplantation"
+        ],
+        "icons":[
+        "transparent_strip",
+        "transparent_strip"
+        ]
+    }
+}

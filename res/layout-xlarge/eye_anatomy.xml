@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/eyetouch_bg3" >
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:paddingBottom="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp"
+        android:src="@drawable/eye_anatomy" />
+
+     <ListView
+      android:id="@+id/list"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_below="@+id/imageView1"
+      android:divider="#40daefff"
+      android:dividerHeight="0.5px"    
+        
+      android:listSelector="@drawable/list_selector">
+    </ListView>
+
+     <ImageButton
+         android:id="@+id/eye_down"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/eye_up"
+         android:layout_toRightOf="@+id/eye_front"
+         android:background="@null"
+         android:src="@drawable/eye_down_mask" />
+
+     <ImageButton
+         android:id="@+id/eye_up"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         
+         android:layout_alignTop="@+id/eye_front"
+         android:layout_toRightOf="@+id/eye_front"
+         android:background="@null"
+         android:src="@drawable/eye_up_mask" />
+
+     <TextView
+         android:id="@+id/exploretext"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentTop="true"
+         android:layout_centerHorizontal="true"
+         android:paddingTop="70dp"
+         android:text="Touch to Explore!"
+         android:textStyle="bold"
+         android:textColor="#ffffff"
+         android:textSize="25sp" />
+
+     <ImageButton
+         android:id="@+id/eye_back"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignRight="@+id/imageView1"
+         android:layout_below="@+id/eye_up"
+         android:background="@null"
+         android:src="@drawable/eye_back_mask" />
+
+     <ImageButton
+         android:id="@+id/eye_front"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/imageView1"
+         android:layout_alignTop="@+id/imageView1"
+         android:background="@null"
+         android:src="@drawable/eye_anterior_mask" />
+
+</RelativeLayout>
