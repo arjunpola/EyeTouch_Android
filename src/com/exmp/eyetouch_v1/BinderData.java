@@ -44,8 +44,7 @@ public class BinderData extends BaseAdapter implements Filterable {
 		
 		this.weatherDataCollection = map;
 		screenType = type;
-		inflater = (LayoutInflater) act
-				.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+		inflater = (LayoutInflater) act.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 		
 	}
 	

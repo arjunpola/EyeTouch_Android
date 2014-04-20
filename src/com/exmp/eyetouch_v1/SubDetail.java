@@ -154,21 +154,14 @@ List<HashMap<String,String>> weatherDataCollection;
 					   	map.put(KEY_ID,String.valueOf(i+1));
 						map.put(KEY_CITY,headers.getString(i));
 						map.put(KEY_ICON,icons.getString(i));
-
 						weatherDataCollection.add(map);
 				}
 				
 			list = (ListView) findViewById(R.id.list);
 				
-				
-				
-				
-		
-				bindingData = new BinderData(this,weatherDataCollection,screenType);
-				originalData = bindingData;
+			bindingData = new BinderData(this,weatherDataCollection,screenType);
+			originalData = bindingData;
 							
-	
-
 
 				list.setAdapter(bindingData);
 
